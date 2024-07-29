@@ -56,7 +56,7 @@ def soru_cevap_sistemi(model_name, context, question):
 with open('C:\\Users\\Dell\\Desktop\\Staj\\cuAI01\\data1son.json', encoding='utf-8') as f:
     data = json.load(f)
 
-# Extract story and questions from JSON data
+# Extract story and questions from JSON dataa
 story = data['data']['story']
 questions = data['data']['questions']
 answers = data['data']['answers']
