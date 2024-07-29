@@ -20,7 +20,7 @@
         {"input_text": "Eşdeğer dersler belirlenirken hangi kriter dikkate alınır?", "turn_id": 23},
         {"input_text": "Yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur mu?", "turn_id": 24},
         {"input_text": "Yatay geçiş yapan öğrencilerin yeni programa intibakları kim tarafından yapılır?", "turn_id": 25},
-        {"input_text": "İntibak işlemleri sırasında hangi dersler dikkate alınır?", "turn_id": 26},
+        {"input_text": "Önceki diploma programında aldığım dersler transkriptime işlenir mi", "turn_id": 26},
         {"input_text": "İntibak işlemleri tamamlandıktan sonra öğrenciler ne yapar?", "turn_id": 27},
         {"input_text": "İntibak edilen derslerin notları nasıl kabul edilir?", "turn_id": 28},
         {"input_text": "Ders intibak işlemleri sırasında hangi kriter dikkate alınır?", "turn_id": 29},
