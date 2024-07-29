@@ -13,7 +13,6 @@
         {"input_text": "Öğrenciler yatay geçiş başvurularını nasıl yaparlar?", "turn_id": 15},
         {"input_text": "Yatay geçiş başvuruları nasıl değerlendirilir ve sonuçlar nasıl duyurulur?", "turn_id": 16},
         {"input_text": "Hangi durumlarda yatay geçiş başvuruları işleme konulmaz?", "turn_id": 17},
-        {"input_text": "Yatay geçiş başvurusu kabul edilen öğrenciler, kayıt sonrası ne yaparlar?", "turn_id": 18},
         {"input_text": "Yatay geçiş sonrası öğrenciler hangi derslerden sorumlu olurlar ve muafiyet taleplerini nasıl iletirler?", "turn_id": 19},
         {"input_text": "Muafiyet talepleri kim tarafından değerlendirilir?", "turn_id": 20},
         {"input_text": "Muafiyet taleplerinin kabul edilmesi durumunda ne olur?", "turn_id": 21},
