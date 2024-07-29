@@ -1,0 +1,460 @@
+{
+    "data": {
+        "story": "Bu yönergenin amacı, önlisans ve lisans düzeyindeki öğrencilerin Çukurova Üniversitesindeki fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesinde yer alan diploma programları arasında veya diğer yükseköğretim kurumlarından Çukurova Üniversitesindeki eşdeğer diploma programlarına yatay geçiş usul ve esaslarını düzenlemektir. Bu yönerge, 24.04.2010 tarihli 27561 sayılı Resmi Gazete’de yayımlanan, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır. Yönerge, Çukurova Üniversitesi Yatay Geçiş Yönergesini ifade eder. Diploma programı, fakülte, yüksekokul, konservatuvar, meslek yüksekokulu veya bölümlerin belirlenen yeterlilikleri sağlayan öğrencilere önlisans veya lisans diploması düzenlenen yükseköğretim programlarını ifade eder. Eşdeğer diploma programı, isimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az yüzde sekseni aynı olduğu tespit edilen diploma programlarını ifade eder. Genel not ortalaması, öğrencinin kayıtlı olduğu programda, başvuru yaptığı döneme kadar aldığı derslerin ağırlıklı not ortalamasıdır. Evet, farklı yükseköğretim kurumlarının diploma programları veya Çukurova Üniversitesi içindeki diploma programları arasında, ancak önceden ilan edilen sayı ve geçiş şartları çerçevesinde geçiş yapılabilir. Önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz. Yatay geçiş, öğrencinin başka bir yükseköğretim kurumunda disiplin cezası almış olması durumunda yapılamaz. Öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır. Evet, yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır. Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, Çukurova Üniversitesinin internet sayfasında duyurulur. Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir. Yatay geçiş başvuruları, güz ve bahar yarıyılı başlangıcından en az bir ay önce ilgili fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu öğrenci işleri birimine yapılır. Öğrenciler, başvurularını ilgili birimin internet sayfasında duyurulan başvuru formu ve gerekli belgelerle birlikte yapar. Yatay geçiş başvuruları, ilgili birim tarafından değerlendirilir ve sonuçlar üniversitenin internet sayfasında ilan edilir. Başvuru koşullarını sağlamayan veya eksik belge ile başvuran adayların başvuruları işleme konulmaz. Yatay geçiş başvurusu kabul edilen öğrenciler, geçiş yapacakları programa kayıtlarını yaptırdıktan sonra ders seçim işlemlerini yaparlar. Öğrenciler, kayıt yaptırdıkları programdaki derslerden sorumlu olurlar ve önceki programdaki derslerden muafiyet taleplerini ilgili birime iletirler. Muafiyet talepleri, ilgili fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu yönetim kurulu tarafından değerlendirilir. Öğrencilerin muafiyet taleplerinin kabul edilmesi durumunda, ilgili derslerden başarılı sayılırlar. Yatay geçiş yapan öğrencilerin önceki yükseköğretim kurumunda aldıkları dersler, ilgili birim tarafından değerlendirilerek eşdeğer dersler belirlenir. Eşdeğer dersler belirlenirken, içeriklerin en az yüzde sekseni aynı olan dersler dikkate alınır. Evet, yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur ve bu derslerin yerine yeni programdaki dersleri almakla yükümlüdür. Yatay geçiş yapan öğrencilerin yeni programa intibakları, ilgili birim tarafından yapılır. İntibak işlemleri sırasında, öğrencilerin önceki programda alıp başarılı oldukları dersler dikkate alınır. İntibak işlemleri tamamlandıktan sonra, öğrenciler yeni programdaki dersleri almaya başlar. Öğrencilerin yeni programa intibakları tamamlandıktan sonra, intibak edilen derslerin notları, yeni programdaki derslerin notları olarak kabul edilir. Ders intibak işlemleri sırasında, öğrencilerin genel not ortalamaları dikkate alınır ve intibak edilen derslerin notları, genel not ortalamasına yansıtılır. Genel not ortalamasına yansıtılan ders notları, öğrencilerin mezuniyet not ortalamasını belirler. Ders intibak işlemleri tamamlandıktan sonra, öğrencilerin yeni programdaki dersler için notları belirlenir ve mezuniyet not ortalaması hesaplanır. Mezuniyet not ortalaması, öğrencilerin yeni programdaki tüm derslerinin notlarının ağırlıklı ortalamasıdır. Bu yönerge hükümleri Çukurova Üniversitesi Senatosu tarafından yürütülür. Bu yönerge hükümlerini Çukurova Üniversitesi Rektörü yürütür. Bu yönerge, yayımı tarihinde yürürlüğe girer.",
+        "questions": [
+            {
+                "input_text": "Bu yönergenin amacı nedir?",
+                "turn_id": 1
+            },
+            {
+                "input_text": "Bu yönerge hangi tarihte yayımlanan yönetmelik hükümlerine dayanılarak hazırlanmıştır?",
+                "turn_id": 2
+            },
+            {
+                "input_text": "Yönergede 'Yönerge' terimi nasıl tanımlanmıştır?",
+                "turn_id": 3
+            },
+            {
+                "input_text": "Yönergede 'diploma programı' nasıl tanımlanmıştır?",
+                "turn_id": 4
+            },
+            {
+                "input_text": "Eşdeğer diploma programı nedir?",
+                "turn_id": 5
+            },
+            {
+                "input_text": "Genel not ortalaması nasıl tanımlanmıştır?",
+                "turn_id": 6
+            },
+            {
+                "input_text": "Farklı yükseköğretim kurumlarının diploma programları arasında yatay geçiş yapılabilir mi?",
+                "turn_id": 7
+            },
+            {
+                "input_text": "Önlisans ve lisans diploma programlarının hangi dönemlerine yatay geçiş yapılamaz?",
+                "turn_id": 8
+            },
+            {
+                "input_text": "Hangi durumlarda yatay geçiş yapılamaz?",
+                "turn_id": 9
+            },
+            {
+                "input_text": "Kurum (üniversite) içi programlar arası yatay geçişlerde hangi şart aranır?",
+                "turn_id": 10
+            },
+            {
+                "input_text": "Yatay geçiş başvurusu yapacak öğrencilerin disiplin cezası almamış olmaları gerekir mi?",
+                "turn_id": 11
+            },
+            {
+                "input_text": "Yatay geçiş değerlendirme sonuçları nerede duyurulur?",
+                "turn_id": 12
+            },
+            {
+                "input_text": "Yatay geçiş hakkı kazanan adaylar, kararlarını nasıl öğrenirler?",
+                "turn_id": 13
+            },
+            {
+                "input_text": "Yatay geçiş başvuruları ne zaman yapılır?",
+                "turn_id": 14
+            },
+            {
+                "input_text": "Öğrenciler yatay geçiş başvurularını nasıl yaparlar?",
+                "turn_id": 15
+            },
+            {
+                "input_text": "Yatay geçiş başvuruları nasıl değerlendirilir ve sonuçlar nasıl duyurulur?",
+                "turn_id": 16
+            },
+            {
+                "input_text": "Hangi durumlarda yatay geçiş başvuruları işleme konulmaz?",
+                "turn_id": 17
+            },
+            {
+                "input_text": "Yatay geçiş başvurusu kabul edilen öğrenciler, kayıt sonrası ne yaparlar?",
+                "turn_id": 18
+            },
+            {
+                "input_text": "Yatay geçiş sonrası öğrenciler hangi derslerden sorumlu olurlar ve muafiyet taleplerini nasıl iletirler?",
+                "turn_id": 19
+            },
+            {
+                "input_text": "Muafiyet talepleri kim tarafından değerlendirilir?",
+                "turn_id": 20
+            },
+            {
+                "input_text": "Muafiyet taleplerinin kabul edilmesi durumunda ne olur?",
+                "turn_id": 21
+            },
+            {
+                "input_text": "Yatay geçiş yapan öğrencilerin önceki kurumda aldıkları dersler nasıl değerlendirilir?",
+                "turn_id": 22
+            },
+            {
+                "input_text": "Eşdeğer dersler belirlenirken hangi kriter dikkate alınır?",
+                "turn_id": 23
+            },
+            {
+                "input_text": "Yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur mu?",
+                "turn_id": 24
+            },
+            {
+                "input_text": "Yatay geçiş yapan öğrencilerin yeni programa intibakları nasıl yapılır?",
+                "turn_id": 25
+            },
+            {
+                "input_text": "İntibak işlemleri sırasında hangi dersler dikkate alınır?",
+                "turn_id": 26
+            },
+            {
+                "input_text": "İntibak işlemleri tamamlandıktan sonra öğrenciler ne yapar?",
+                "turn_id": 27
+            },
+            {
+                "input_text": "İntibak edilen derslerin notları ne olarak kabul edilir?",
+                "turn_id": 28
+            },
+            {
+                "input_text": "İntibak işlemleri sırasında öğrencilerin genel not ortalamaları dikkate alınır mı?",
+                "turn_id": 29
+            },
+            {
+                "input_text": "Genel not ortalamasına yansıtılan ders notları neyi belirler?",
+                "turn_id": 30
+            },
+            {
+                "input_text": "Ders intibak işlemleri tamamlandıktan sonra ne yapılır?",
+                "turn_id": 31
+            },
+            {
+                "input_text": "Mezuniyet not ortalaması nasıl hesaplanır?",
+                "turn_id": 32
+            },
+            {
+                "input_text": "Bu yönerge hükümleri kim tarafından yürütülür?",
+                "turn_id": 33
+            },
+            {
+                "input_text": "Yönerge ne zaman yürürlüğe girer?",
+                "turn_id": 34
+            }
+        ],
+        "answers": [
+            {
+                "input_text": "amaç",
+                "turn_id": 1,
+                "span_text": "Bu yönergenin amacı, önlisans ve lisans düzeyindeki öğrencilerin Çukurova Üniversitesindeki fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesinde yer alan diploma programları arasında veya diğer yükseköğretim kurumlarından Çukurova Üniversitesindeki eşdeğer diploma programlarına yatay geçiş usul ve esaslarını düzenlemektir.",
+                "span": {
+                    "start": 0,
+                    "end": 322
+                }
+            },
+            {
+                "input_text": "yönetmelik",
+                "turn_id": 2,
+                "span_text": "Bu yönerge, 24.04.2010 tarihli 27561 sayılı Resmi Gazete’de yayımlanan, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır.",
+                "span": {
+                    "start": 323,
+                    "end": 576
+                }
+            },
+            {
+                "input_text": "'Yönerge' tanımı",
+                "turn_id": 3,
+                "span_text": "Yönerge, Çukurova Üniversitesi Yatay Geçiş Yönergesini ifade eder.",
+                "span": {
+                    "start": 577,
+                    "end": 635
+                }
+            },
+            {
+                "input_text": "'diploma programı' tanımı",
+                "turn_id": 4,
+                "span_text": "Diploma programı, fakülte, yüksekokul, konservatuvar, meslek yüksekokulu veya bölümlerin belirlenen yeterlilikleri sağlayan öğrencilere önlisans veya lisans diploması düzenlenen yükseköğretim programlarını ifade eder.",
+                "span": {
+                    "start": 636,
+                    "end": 772
+                }
+            },
+            {
+                "input_text": "eşdeğer diploma programı",
+                "turn_id": 5,
+                "span_text": "Eşdeğer diploma programı, isimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az yüzde sekseni aynı olduğu tespit edilen diploma programlarını ifade eder.",
+                "span": {
+                    "start": 773,
+                    "end": 874
+                }
+            },
+            {
+                "input_text": "genel not ortalaması",
+                "turn_id": 6,
+                "span_text": "Genel not ortalaması, öğrencinin kayıtlı olduğu programda, başvuru yaptığı döneme kadar aldığı derslerin ağırlıklı not ortalamasıdır.",
+                "span": {
+                    "start": 875,
+                    "end": 980
+                }
+            },
+            {
+                "input_text": "yatay geçiş",
+                "turn_id": 7,
+                "span_text": "Evet, farklı yükseköğretim kurumlarının diploma programları veya Çukurova Üniversitesi içindeki diploma programları arasında, ancak önceden ilan edilen sayı ve geçiş şartları çerçevesinde geçiş yapılabilir.",
+                "span": {
+                    "start": 981,
+                    "end": 1153
+                }
+            },
+            {
+                "input_text": "hangi dönemler",
+                "turn_id": 8,
+                "span_text": "Önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.",
+                "span": {
+                    "start": 1154,
+                    "end": 1260
+                }
+            },
+            {
+                "input_text": "disiplin cezası",
+                "turn_id": 9,
+                "span_text": "Yatay geçiş, öğrencinin başka bir yükseköğretim kurumunda disiplin cezası almış olması durumunda yapılamaz.",
+                "span": {
+                    "start": 1261,
+                    "end": 1328
+                }
+            },
+            {
+                "input_text": "başarı şartı",
+                "turn_id": 10,
+                "span_text": "Öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır.",
+                "span": {
+                    "start": 1329,
+                    "end": 1430
+                }
+            },
+            {
+                "input_text": "disiplin cezası şartı",
+                "turn_id": 11,
+                "span_text": "Evet, yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır.",
+                "span": {
+                    "start": 1431,
+                    "end": 1506
+                }
+            },
+            {
+                "input_text": "sonuçların duyurulması",
+                "turn_id": 12,
+                "span_text": "Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, Çukurova Üniversitesinin internet sayfasında duyurulur.",
+                "span": {
+                    "start": 1507,
+                    "end": 1603
+                }
+            },
+            {
+                "input_text": "kararın öğrenilmesi",
+                "turn_id": 13,
+                "span_text": "Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir.",
+                "span": {
+                    "start": 1604,
+                    "end": 1669
+                }
+            },
+            {
+                "input_text": "başvuru zamanı",
+                "turn_id": 14,
+                "span_text": "Yatay geçiş başvuruları, güz ve bahar yarıyılı başlangıcından en az bir ay önce ilgili fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu öğrenci işleri birimine yapılır.",
+                "span": {
+                    "start": 1670,
+                    "end": 1771
+                }
+            },
+            {
+                "input_text": "başvuru şekli",
+                "turn_id": 15,
+                "span_text": "Öğrenciler, başvurularını ilgili birimin internet sayfasında duyurulan başvuru formu ve gerekli belgelerle birlikte yapar.",
+                "span": {
+                    "start": 1772,
+                    "end": 1848
+                }
+            },
+            {
+                "input_text": "başvuruların değerlendirilmesi",
+                "turn_id": 16,
+                "span_text": "Yatay geçiş başvuruları, ilgili birim tarafından değerlendirilir ve sonuçlar üniversitenin internet sayfasında ilan edilir.",
+                "span": {
+                    "start": 1849,
+                    "end": 1933
+                }
+            },
+            {
+                "input_text": "başvuruların reddedilmesi",
+                "turn_id": 17,
+                "span_text": "Başvuru koşullarını sağlamayan veya eksik belge ile başvuran adayların başvuruları işleme konulmaz.",
+                "span": {
+                    "start": 1934,
+                    "end": 2000
+                }
+            },
+            {
+                "input_text": "kayıt sonrası işlemler",
+                "turn_id": 18,
+                "span_text": "Yatay geçiş başvurusu kabul edilen öğrenciler, geçiş yapacakları programa kayıtlarını yaptırdıktan sonra ders seçim işlemlerini yaparlar.",
+                "span": {
+                    "start": 2001,
+                    "end": 2095
+                }
+            },
+            {
+                "input_text": "muafiyet talepleri",
+                "turn_id": 19,
+                "span_text": "Öğrenciler, kayıt yaptırdıkları programdaki derslerden sorumlu olurlar ve önceki programdaki derslerden muafiyet taleplerini ilgili birime iletirler.",
+                "span": {
+                    "start": 2096,
+                    "end": 2190
+                }
+            },
+            {
+                "input_text": "muafiyet değerlendirilmesi",
+                "turn_id": 20,
+                "span_text": "Muafiyet talepleri, ilgili fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu yönetim kurulu tarafından değerlendirilir.",
+                "span": {
+                    "start": 2191,
+                    "end": 2261
+                }
+            },
+            {
+                "input_text": "muafiyet kabulü",
+                "turn_id": 21,
+                "span_text": "Öğrencilerin muafiyet taleplerinin kabul edilmesi durumunda, ilgili derslerden başarılı sayılırlar.",
+                "span": {
+                    "start": 2262,
+                    "end": 2326
+                }
+            },
+            {
+                "input_text": "önceki derslerin değerlendirilmesi",
+                "turn_id": 22,
+                "span_text": "Yatay geçiş yapan öğrencilerin önceki yükseköğretim kurumunda aldıkları dersler, ilgili birim tarafından değerlendirilerek eşdeğer dersler belirlenir.",
+                "span": {
+                    "start": 2327,
+                    "end": 2417
+                }
+            },
+            {
+                "input_text": "eşdeğer derslerin belirlenmesi",
+                "turn_id": 23,
+                "span_text": "Eşdeğer dersler belirlenirken, içeriklerin en az yüzde sekseni aynı olan dersler dikkate alınır.",
+                "span": {
+                    "start": 2418,
+                    "end": 2477
+                }
+            },
+            {
+                "input_text": "eşdeğer derslerden muafiyet",
+                "turn_id": 24,
+                "span_text": "Evet, yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur ve bu derslerin yerine yeni programdaki dersleri almakla yükümlüdür.",
+                "span": {
+                    "start": 2478,
+                    "end": 2564
+                }
+            },
+            {
+                "input_text": "intibak işlemleri",
+                "turn_id": 25,
+                "span_text": "Yatay geçiş yapan öğrencilerin yeni programa intibakları, ilgili birim tarafından yapılır.",
+                "span": {
+                    "start": 2565,
+                    "end": 2625
+                }
+            },
+            {
+                "input_text": "intibak işlemleri sırasında dikkate alınan dersler",
+                "turn_id": 26,
+                "span_text": "İntibak işlemleri sırasında, öğrencilerin önceki programda alıp başarılı oldukları dersler dikkate alınır.",
+                "span": {
+                    "start": 2626,
+                    "end": 2693
+                }
+            },
+            {
+                "input_text": "intibak sonrası yapılacak işlemler",
+                "turn_id": 27,
+                "span_text": "İntibak işlemleri tamamlandıktan sonra, öğrenciler yeni programdaki dersleri almaya başlar.",
+                "span": {
+                    "start": 2694,
+                    "end": 2753
+                }
+            },
+            {
+                "input_text": "intibak edilen derslerin notları",
+                "turn_id": 28,
+                "span_text": "Öğrencilerin yeni programa intibakları tamamlandıktan sonra, intibak edilen derslerin notları, yeni programdaki derslerin notları olarak kabul edilir.",
+                "span": {
+                    "start": 2754,
+                    "end": 2854
+                }
+            },
+            {
+                "input_text": "genel not ortalamasının dikkate alınması",
+                "turn_id": 29,
+                "span_text": "Ders intibak işlemleri sırasında, öğrencilerin genel not ortalamaları dikkate alınır ve intibak edilen derslerin notları, genel not ortalamasına yansıtılır.",
+                "span": {
+                    "start": 2855,
+                    "end": 2936
+                }
+            },
+            {
+                "input_text": "genel not ortalamasına yansıtılan ders notları",
+                "turn_id": 30,
+                "span_text": "Genel not ortalamasına yansıtılan ders notları, öğrencilerin mezuniyet not ortalamasını belirler.",
+                "span": {
+                    "start": 2937,
+                    "end": 2998
+                }
+            },
+            {
+                "input_text": "ders intibak işlemleri sonrası yapılacak işlemler",
+                "turn_id": 31,
+                "span_text": "Ders intibak işlemleri tamamlandıktan sonra, öğrencilerin yeni programdaki dersler için notları belirlenir ve mezuniyet not ortalaması hesaplanır.",
+                "span": {
+                    "start": 2999,
+                    "end": 3072
+                }
+            },
+            {
+                "input_text": "mezuniyet not ortalaması",
+                "turn_id": 32,
+                "span_text": "Mezuniyet not ortalaması, öğrencilerin yeni programdaki tüm derslerinin notlarının ağırlıklı ortalamasıdır.",
+                "span": {
+                    "start": 3073,
+                    "end": 3130
+                }
+            },
+            {
+                "input_text": "yönergeyi yürüten",
+                "turn_id": 33,
+                "span_text": "Bu yönerge hükümleri Çukurova Üniversitesi Senatosu tarafından yürütülür.",
+                "span": {
+                    "start": 3131,
+                    "end": 3183
+                }
+            },
+            {
+                "input_text": "yönerge hükümlerini yürüten",
+                "turn_id": 34,
+                "span_text": "Bu yönerge hükümlerini Çukurova Üniversitesi Rektörü yürütür.",
+                "span": {
+                    "start": 3184,
+                    "end": 3231
+                }
+            },
+            {
+                "input_text": "yürürlük tarihi",
+                "turn_id": 35,
+                "span_text": "Bu yönerge, yayımı tarihinde yürürlüğe girer.",
+                "span": {
+                    "start": 3232,
+                    "end": 3264
+                }
+            }
+        ]
+    }
+}
