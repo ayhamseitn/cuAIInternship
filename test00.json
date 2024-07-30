@@ -1,0 +1,67 @@
+[
+  {
+    "source": "ÇUKUROVA ÜNİVERSİTESİ ÖNLİSANS VE LİSANS DÜZEYİNDEKİ PROGRAMLAR ARASINDA YATAY GEÇİŞ ESASLARINA İLİŞKİN YÖNERGE",
+    "paragraphs": [
+      {
+        "context": "MADDE 1 – (1)Bu yönergenin amacı, önlisans ve lisans düzeyindeki öğrencilerin Çukurova Üniversitesindeki fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesinde yer alan diploma programları arasında veya diğer yükseköğretim kurumlarından Çukurova Üniversitesindeki eşdeğer diploma programlarına yatay geçiş usul ve esaslarını düzenlemektir. Tıp ve Diş hekimliği fakültelerinde ilgili fakültelerin kendi yatay geçiş yönergeleri esas alınır.",
+        "qas": [
+          {
+            "input_text": "Bu yönergenin amacı nedir?",
+            "span_start": 30,
+            "span_end": 314,
+            "span_text": "önlisans ve lisans düzeyindeki öğrencilerin Çukurova Üniversitesindeki fakülte, yüksekokul, konservatuvar veya meslek yüksekokulu bünyesinde yer alan diploma programları arasında veya diğer yükseköğretim kurumlarından Çukurova Üniversitesindeki eşdeğer diploma programlarına yatay geçiş usul ve esaslarını düzenlemektir."
+          }
+        ]
+      },
+      {
+        "context": "MADDE 2 – (1)Bu yönerge, 24.04.2010 tarihli 27561 sayılı Resmi Gazete’de yayımlanan, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelikhükümlerine dayanılarak hazırlanmıştır.",
+        "qas": [
+          {
+            "input_text": "Bu yönerge hangi yönetmelik hükümlerine dayandırılarak hazırlanmıştır?",
+            "span_start": 29,
+            "span_end": 234,
+            "span_text": "24.04.2010 tarihli 27561 sayılı Resmi Gazete’de yayımlanan, Yükseköğretim Kurumlarında Ön Lisans ve Lisans Düzeyindeki Programlar Arasında Geçiş, Çift Ana Dal, Yan Dal ile Kurumlar Arası Kredi Transferi Yapılması Esaslarına İlişkin Yönetmelik hükümlerine dayanılarak hazırlanmıştır."
+          }
+        ]
+      },
+      {
+        "context": "MADDE 3 – (1)Yönergede geçen, a) Diploma programı: Fakülte, yüksekokul, konservatuvar, meslek yüksekokulu veya bölümlerin belirlenen yeterlilikleri sağlayan öğrencilere önlisans veya lisans diploması düzenlenen yükseköğretim programlarını, b) Düzey: Önlisans veya lisans diploma programlarından her birini, c) Eşdeğer diploma programı: İsimleri aynı olan veya ilgili yönetim kurulları tarafından içeriklerinin en az yüzde sekseni aynı olduğu tespit edilen diploma programlarını, ç) Genel not ortalaması: Öğrencinin hazırlık sınıfı hariç, geçiş yapmak istediği döneme kadar almış olduğu tüm derslerin kredilerine göre ağırlıklandırılmış not ortalamasını, d) İlgili yönetim kurulu: Fakültelerde, fakülte yönetim kurulunu; yüksekokullarda, yüksekokul yönetim kurulunu; konservatuvarlarda, konservatuvar yönetim kurulunu; meslek yüksekokullarında, meslek yüksekokulu yönetim kurulunu, e) İntibak programı:  Diploma programları arasında geçiş yapılması hâlinde, geçiş yapılan diploma programının müfredatına uyum sağlamak amacıyla ilave ders ve uygulamalardan oluşan programı, f) Kontenjan: Önceden belirlenip ilan edilen öğrenci sayısını, g) Kurum  (Üniversite) içi yatay geçiş:  Bir öğrencinin üniversite içindeki aynı düzeydeki diğer diploma programlarına geçişini, ğ) Kurumlar arası yatay geçiş: Bir üniversite, yüksek teknoloji enstitüsü veya vakıflar tarafından bir üniversiteye bağlı olmaksızın kurulan meslek yüksekokullarından aynı düzeyde üniversitemize yapılan geçişi, h) ÖSSPuanı:Yatay geçiş yapmak üzere başvuran öğrencinin Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yapılan merkezi sınavda aldığı yerleştirme puanını, ı) Taban puan: Yatay geçiş yapmak üzere başvuran öğrencinin ÖSS puan yılındaki Çukurova Üniversitesi ilgili fakülte/bölüm/anabilim dalı programına ÖSYM tarafından merkezi sınavla yerleştirilen en düşük puanlı öğrencinin giriş puanını, i) Yatay geçiş: Bir yükseköğretim kurumunda kayıtlı olan öğrencinin bu yönergedeki esaslar çerçevesinde, aynı düzeydeki diğer diploma programlarında öğrenime devam etme hakkı kazanmasını, j) Yatay geçiş komisyonu: İlgili yönetim kurulu tarafından yatay geçişin yapılacağı diploma programı için belirlenen, öğretim üyelerinden oluşan en az üç kişilik komisyonu ifade eder.",
+        "qas": [
+          {
+            "input_text": "Yatay geçiş komisyonu nedir?",
+            "span_start": 1476,
+            "span_end": 1655,
+            "span_text": "İlgili yönetim kurulu tarafından yatay geçişin yapılacağı diploma programı için belirlenen, öğretim üyelerinden oluşan en az üç kişilik komisyonu ifade eder."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "İKİNCİ BÖLÜM Genel İlkeler",
+    "paragraphs": [
+      {
+        "context": "MADDE 4 – (1)Farklı yükseköğretim kurumlarının diploma programları veya Çukurova Üniversitesindeki diploma programları arasında, ancak önceden ilan edilen sayı ve geçiş şartları çerçevesinde geçiş yapılabilir.",
+        "qas": [
+          {
+            "input_text": "Çukurova Üniversitesi'ndeki diploma programları arasında geçiş nasıl yapılır?",
+            "span_start": 70,
+            "span_end": 168,
+            "span_text": "ancak önceden ilan edilen sayı ve geçiş şartları çerçevesinde geçiş yapılabilir."
+          }
+        ]
+      },
+      {
+        "context": "MADDE 5–(1) (Değişik - Senato-18/04/2017-07/06) Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz.",
+        "qas": [
+          {
+            "input_text": "Hangi durumlarda yatay geçiş yapılamaz?",
+            "span_start": 70,
+            "span_end": 246,
+            "span_text": "Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz."
+          }
+        ]
+      }
+    ]
+  }
+]
