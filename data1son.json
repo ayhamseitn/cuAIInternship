@@ -13,21 +13,15 @@
         {"input_text": "Öğrenciler yatay geçiş başvurularını nasıl yaparlar?", "turn_id": 15},
         {"input_text": "Yatay geçiş başvuruları nasıl değerlendirilir ve sonuçlar nasıl duyurulur?", "turn_id": 16},
         {"input_text": "Hangi durumlarda yatay geçiş başvuruları işleme konulmaz?", "turn_id": 17},
-        {"input_text": "Yatay geçiş sonrası öğrenciler hangi derslerden sorumlu olurlar ve muafiyet taleplerini nasıl iletirler?", "turn_id": 19},
-        {"input_text": "Muafiyet talepleri kim tarafından değerlendirilir?", "turn_id": 20},
-        {"input_text": "Muafiyet taleplerinin kabul edilmesi durumunda ne olur?", "turn_id": 21},
         {"input_text": "Yatay geçiş yapan öğrencilerin önceki yükseköğretim kurumunda aldıkları dersler nasıl değerlendirilir?", "turn_id": 22},
         {"input_text": "Eşdeğer dersler belirlenirken hangi kriter dikkate alınır?", "turn_id": 23},
         {"input_text": "Yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur mu?", "turn_id": 24},
         {"input_text": "Yatay geçiş yapan öğrencilerin yeni programa intibakları kim tarafından yapılır?", "turn_id": 25},
         {"input_text": "Önceki diploma programında aldığım dersler transkriptime işlenir mi", "turn_id": 26},
-        {"input_text": "İntibak işlemleri tamamlandıktan sonra öğrenciler ne yapar?", "turn_id": 27},
+        {"input_text": "İntibak işlemleri tamamlandıktan sonra ne olur?", "turn_id": 27},
         {"input_text": "İntibak edilen derslerin notları nasıl kabul edilir?", "turn_id": 28},
         {"input_text": "Ders intibak işlemleri sırasında hangi kriter dikkate alınır?", "turn_id": 29},
-        {"input_text": "Genel not ortalamasına yansıtılan ders notları neyi belirler?", "turn_id": 30},
-        {"input_text": "Mezuniyet not ortalaması nedir?", "turn_id": 31},
-        {"input_text": "Bu yönerge hükümleri kim tarafından yürütülür?", "turn_id": 33},
-        {"input_text": "Bu yönerge ne zaman yürürlüğe girer?", "turn_id": 35}
+        {"input_text": "Bu yönerge hükümleri kim tarafından yürütülür?", "turn_id": 33}
       ],
       "answers": [
         {"span_start": 62, "span_end": 130, "span_text": "Farklı yükseköğretim kurumlarının diploma programları arasında yatay geçiş yapılabilir.", "input_text": "Evet, yapılabilir.", "turn_id": 7},
