@@ -1,67 +1,85 @@
 import json
 import torch
-from transformers import BertForQuestionAnswering, BertTokenizer
+from transformers import BertTokenizer, BertForQuestionAnswering
 
-# Model and tokenizer initialization
-model = BertForQuestionAnswering.from_pretrained('salti/bert-base-multilingual-cased-finetuned-squad')
-tokenizer = BertTokenizer.from_pretrained('salti/bert-base-multilingual-cased-finetuned-squad')
+# Model ve tokenizer'ı yükle
+tokenizer = BertTokenizer.from_pretrained("salti/bert-base-multilingual-cased-finetuned-squad")
+model = BertForQuestionAnswering.from_pretrained("salti/bert-base-multilingual-cased-finetuned-squad")
 
-def question_answer(question, text):
-    # Tokenize question and text as a pair
-    inputs = tokenizer.encode_plus(question, text, return_tensors='pt')
-    input_ids = inputs['input_ids']
-    token_type_ids = inputs['token_type_ids']
+def question_answer(question, story):
+    # Story'yi parçalara böl
+    paragraphs = story.split("\n\n")
+    best_answer = ""
+    best_score = float('-inf')
 
-    # Model output using input_ids and token_type_ids
-    outputs = model(input_ids, token_type_ids=token_type_ids)
-    
-    # Reconstructing the answer
-    answer_start = torch.argmax(outputs.start_logits)
-    answer_end = torch.argmax(outputs.end_logits) + 1
-    answer = tokenizer.convert_tokens_to_string(tokenizer.convert_ids_to_tokens(input_ids[0][answer_start:answer_end]))
+    for paragraph in paragraphs:
+        inputs = tokenizer.encode_plus(question, paragraph, add_special_tokens=True, return_tensors="pt")
+        input_ids = inputs["input_ids"].tolist()[0]
 
-    if answer.startswith("[CLS]") or answer == "":
-        answer = "Unable to find the answer to your question."
-    
-    print("\nPredicted answer:\n{}".format(answer.capitalize()))
+        if len(input_ids) > 512:
+            print("Skipping a paragraph as it exceeds the maximum length")
+            continue
 
-def load_coqa_data(file_path):
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    return data
+        outputs = model(**inputs)
+        answer_start_scores = outputs.start_logits
+        answer_end_scores = outputs.end_logits
+
+        answer_start = torch.argmax(answer_start_scores)
+        answer_end = torch.argmax(answer_end_scores) + 1
+
+        answer = tokenizer.convert_tokens_to_string(tokenizer.convert_ids_to_tokens(input_ids[answer_start:answer_end]))
+
+        # En yüksek skora sahip cevabı seç
+        score = torch.max(answer_start_scores) + torch.max(answer_end_scores)
+        if score > best_score:
+            best_score = score
+            best_answer = answer
+
+    print(f"Soru: {question}")
+    print(f"Cevap: {best_answer}")
 
 def main():
-    file_path = input("Please enter the path to your CoQA data file: \n")
-    coqa_data = load_coqa_data(file_path)
-    
-    # Display available texts for selection
-    story = coqa_data['data']['story']
-    print(f"Story: {story[:100]}...")  # Displaying only first 100 characters of the story for brevity
-    
-    questions = coqa_data['data']['questions']
-    for i, question in enumerate(questions):
-        print(f"{i}: {question['input_text']}")
-    
-    while True:
-        selected_index = int(input("\nSelect the index of the question you want to ask: "))
-        question = questions[selected_index]['input_text']
-        
-        question_answer(question, story)
-        
-        flag = True
-        flag_N = False
-        
-        while flag:
-            response = input("\nDo you want to ask another question based on this story (Y/N)? ")
-            if response[0].upper() == "Y":
-                flag = False
-            elif response[0].upper() == "N":
-                print("\nBye!")
-                flag = False
-                flag_N = True
-                
-        if flag_N:
-            break
+    # Kullanıcıdan CoQA veri dosyasının yolunu al
+    file_path = input("Lütfen CoQA veri dosyanızın yolunu girin: ")
+
+    # JSON dosyasını oku
+    with open(file_path, "r", encoding="utf-8") as file:
+        data = json.load(file)
+
+    # Story'yi ve soruları al
+    story = data['data']['story']
+    questions = [
+        "Farklı yükseköğretim kurumlarının diploma programları arasında yatay geçiş yapılabilir mi?",
+        "Önlisans ve lisans diploma programlarının hangi dönemlerine yatay geçiş yapılamaz?",
+        "Hangi durumlarda yatay geçiş yapılamaz?",
+        "Kurum (üniversite) içi programlar arası yatay geçişlerde hangi şart aranır?",
+        "Yatay geçiş başvurusu yapacak öğrencilerin disiplin cezası almamış olmaları gerekir mi?",
+        "Yatay geçiş değerlendirme sonuçları nerede duyurulur?",
+        "Yatay geçiş hakkı kazanan adaylar, kararlarını nasıl öğrenirler?",
+        "Yatay geçiş başvuruları ne zaman yapılır?",
+        "Yatay geçiş başvuruları nasıl değerlendirilir?",
+        "Hangi durumlarda yatay geçiş başvuruları işleme konulmaz?",
+        "Yatay geçiş yapan öğrencilerin önceki yükseköğretim kurumunda aldıkları dersler nasıl değerlendirilir?",
+        "Eşdeğer dersler belirlenirken hangi kriter dikkate alınır?",
+        "Yatay geçiş yapan öğrenciler eşdeğer derslerden muaf tutulur mu?",
+        "Yatay geçiş yapan öğrencilerin yeni programa intibakları kim tarafından yapılır?",
+        "Önceki diploma programında aldığım dersler transkriptime işlenir mi?",
+        "İntibak işlemleri tamamlandıktan sonra ne olur?",
+        "İntibak edilen derslerin notları nasıl kabul edilir?",
+        "Ders intibak işlemleri sırasında hangi kriter dikkate alınır?",
+        "Bu yönerge hükümleri kim tarafından yürütülür?"
+    ]
+
+    # Soruları listele
+    for idx, question in enumerate(questions):
+        print(f"{idx}: {question}")
+
+    # Kullanıcıdan bir soru seçmesini iste
+    question_index = int(input("Sormak istediğiniz sorunun indeksini seçin: "))
+    selected_question = questions[question_index]
+
+    # Soruyu yanıtla
+    question_answer(selected_question, story)
 
 if __name__ == "__main__":
     main()
