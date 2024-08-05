@@ -1,0 +1,30 @@
+version: "3.1"
+
+stories:
+
+- story: happy path
+  steps:
+  - intent: selamlama
+  - action: utter_greet
+  - intent: iyi_hal
+  - action: utter_happy
+
+- story: sad path 1
+  steps:
+  - intent: selamlama
+  - action: utter_greet
+  - intent: üzgün_hal
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: onaylama
+  - action: utter_happy
+
+- story: sad path 2
+  steps:
+  - intent: selamlama
+  - action: utter_greet
+  - intent: üzgün_hal
+  - action: utter_cheer_up
+  - action: utter_did_that_help
+  - intent: reddetme
+  - action: utter_goodbye

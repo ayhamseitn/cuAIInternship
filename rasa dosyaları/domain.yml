@@ -1,0 +1,33 @@
+version: "3.1"
+
+intents:
+  - selamlama
+  - hoşçakal
+  - onaylama
+  - reddetme
+  - iyi_hal
+  - üzgün_hal
+  - bot_challenge
+
+responses:
+  utter_greet:
+  - text: "Merhaba! Nasılsın?"
+
+  utter_cheer_up:
+  - text: "Öyle düşünme. Her işte bir hayır vardır."
+
+  utter_did_that_help:
+  - text: "Yardımcı olabildim mi?"
+
+  utter_happy:
+  - text: "Mükemmel, böyle devam et!"
+
+  utter_goodbye:
+  - text: "bay"
+
+  utter_iamabot:
+  - text: "Ben Rasa tarafından geliştirilmş bir botum."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

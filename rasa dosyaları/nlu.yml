@@ -1,0 +1,91 @@
+version: "3.1"
+
+nlu:
+- intent: selamlama
+  examples: |
+    - hey
+    - merhaba
+    - selam
+    - selam oradaki
+    - günaydın
+    - iyi akşamlar
+    - moin
+    - hey oradaki
+    - hadi başlayalım
+    - hey dostum
+    - iyi sabahlar
+    - akşamınız güzel olsun
+    - tünaydın
+
+- intent: hoşçakal
+  examples: |
+    - cu
+    - good by
+    - sonra görüşürüz
+    - iyi geceler
+    - bay
+    - hoşçakal
+    - kendine iyi bak
+    - denkleşiriz
+    - bay bay
+    - daha sonra görüşürüz
+
+- intent: onaylama
+  examples: |
+    - evet
+    - ed
+    - kesinlikle
+    - tabiki
+    - kulağa iyi geliyor
+    - doğru
+
+- intent: reddetme
+  examples: |
+    - hayır
+    - hyr
+    - asla
+    - öyle düşünmüyorum
+    - bunu sevmedim
+    - imkanı yok
+    - pek değil
+
+- intent: iyi_hal
+  examples: |
+    - muhteşem
+    - mükemmel
+    - harika
+    - keyfimiz paşada yok
+    - mük
+    - çok iyi hissediyorum
+    - mükemmel hissediyorum
+    - harikayım
+    - allah bir ben iki
+    - super stoked
+    - inanılmaz derecede iyi
+    - çok çok mük
+    - çok iyi
+    - çok mük
+
+- intent: üzgün_hal
+  examples: |
+    - berbat bir gün geçirdim
+    - üzgünüm
+    - çok iyi hissetmiyorum
+    - hayal kırıklığına uğradım
+    - inanılmaz üzgün
+    - çok üzgünüm
+    - üzgün
+    - çok üzgün
+    - mutsuz
+    - iyi değil
+    - çok iyi değil
+    - çook üzgün
+    - üzücü
+    - çok üzücü
+
+- intent: bot_challenge
+  examples: |
+    - sen bot musun?
+    - sen insan mısın?
+    - robotla mı konuşuyorum?
+    - insanla mı konuşuyorum?

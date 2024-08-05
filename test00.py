@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, AutoModelForQuestionAnswering
 import torch
 
 # Model ve tokenizer yükleme
-model_name = "salti/bert-base-multilingual-cased-finetuned-squad"
+model_name = "nvidia/gpt3-8b-multi-3.5t-base"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForQuestionAnswering.from_pretrained(model_name)
 
