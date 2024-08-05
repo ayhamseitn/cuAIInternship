@@ -8,6 +8,7 @@ intents:
   - iyi_hal
   - üzgün_hal
   - bot_challenge
+  - madde_5_1
 
 responses:
   utter_greet:
@@ -27,6 +28,9 @@ responses:
 
   utter_iamabot:
   - text: "Ben Rasa tarafından geliştirilmş bir botum."
+
+  r_madde_5_1:
+  - text: "Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz."
 
 session_config:
   session_expiration_time: 60
