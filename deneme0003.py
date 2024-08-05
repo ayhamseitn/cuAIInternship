@@ -53,7 +53,7 @@ def soru_cevap_sistemi(model_name, context, question):
     return answer
 
 # Load JSON data from file
-with open('C:\\Users\\Dell\\Desktop\\Staj\\cuAI01\\data1son.json', encoding='utf-8') as f:
+with open('C:\\Users\\Dell\\Desktop\\Staj\\cuAI01\\data1sonSpan.json', encoding='utf-8') as f:
     data = json.load(f)
 
 # Extract story and questions from JSON dataa

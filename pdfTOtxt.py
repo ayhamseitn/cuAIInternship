@@ -1,7 +1,7 @@
 import fitz
 
 # Open the PDF file
-pdf_file = "C:/Users/Dell/\Desktop/Staj/yataygecis/yataygecis.pdf"
+pdf_file = "C:/Users/Dell/Desktop/MADDE5.pdf"
 pdf_document = fitz.open(pdf_file)
 
 # Iterate through each page and extract text
@@ -14,7 +14,7 @@ for page_num in range(pdf_document.page_count):
 full_text = " ".join(full_text.split())
 
 # Save the content in a text file
-with open("C:/Users/Dell/\Desktop/Staj/yataygecis/yataygecis.txt", "w") as file:
+with open("C:/Users/Dell/Desktop/MADDE5.txt", "w") as file:
     file.write(full_text)
 
 # Close the PDF document
