@@ -29,7 +29,7 @@ responses:
   utter_iamabot:
   - text: "Ben Rasa tarafından geliştirilmş bir botum."
 
-  r_madde_5_1:
+  utter_madde_5_1:
   - text: "Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz."
 
 session_config:

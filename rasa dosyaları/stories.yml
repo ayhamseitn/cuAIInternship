@@ -32,4 +32,4 @@ stories:
 - story: s_madde_5_1
   steps:
   - intent: madde_5_1
-  - action: r_madde_5_1
+  - action: utter_madde_5_1
