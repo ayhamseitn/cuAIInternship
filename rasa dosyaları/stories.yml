@@ -33,3 +33,23 @@ stories:
   steps:
   - intent: madde_5_1
   - action: utter_madde_5_1
+
+- story: s_madde_5_2
+  steps:
+  - intent: madde_5_2
+  - action: utter_madde_5_2
+
+- story: s_madde_5_3
+  steps:
+  - intent: madde_5_3
+  - action: utter_madde_5_3
+
+- story: s_madde_5_4
+  steps:
+  - intent: madde_4
+  - actions: madde_4
+
+- story: s_madde_5_5
+  steps:
+  - intent: madde_5
+  - actions: madde_5
