@@ -203,3 +203,53 @@ nlu:
     - İlgili komisyonlar hangi dersleri dikkate alarak intibak işlemi yapar?
     - Öğrencinin alması gereken ilave dersler nasıl belirlenir?
     - Muaf tutulması gereken dersler nasıl belirlenir?
+
+- intent: madde_8_1
+  examples: |
+    - Üniversite içi bir fakülteden diğer fakülteye yatay geçiş yapmak mümkün mü?
+    - Kurum içi bir fakülteden diğer fakülteye yatay geçiş yapmak mümkün mü?
+    - Üniversite içi bir fakülteler arası yatay geçiş yapmak mümkün mü?
+    - Kurum içi bir fakülteler arası yatay geçiş yapmak mümkün mü?
+
+- intent: madde_8_2
+  examples: |
+    - Kurum içi yatay geçilerde kontenjan belirleme süreci nasıl işler ve kim tarafından karara bağlanır?
+    - Üniversite içi yatay geçilerde kontenjan belirleme süreci nasıl işler ve kim tarafından karara bağlanır?
+
+- intent: madde_8_3
+  examples: |
+    - Üniversite içi yatay geçiş kontenjanları ne zaman ilan edilir?
+    - Kurum içi Yatay geçiş kontenjanlarının ilan edilme süreci nasıl işler?
+
+- intent: madde_8_5
+  examples: |
+    - Üniversitenin aynı düzeyde öğrenci kabul eden diploma programları arasında yatay geçiş yapmak için hangi puan şartı gereklidir?
+    - Aynı düzeyde öğrenci kabul eden diploma programları arasında yatay geçiş yapmak için öğrencinin Merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programının puan türünde alınan merkezi yerleştirme puanı nasıl olmalıdır?
+
+- intent: madde_8_6
+  examples: |
+    - Yetenek sınavı ile öğrenci alan diploma programlarına yatay geçiş yaparken hangi ek şartlar aranır?
+    - Yetenek sınavı ile öğrenci alan programlara geçiş yaparken öğrencinin hangi şartları sağlaması gerekir?
+    - Kurum içi yatay geçişlerde yetenek sınavının rolü nedir?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
