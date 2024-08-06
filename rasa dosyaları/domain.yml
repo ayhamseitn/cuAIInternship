@@ -38,8 +38,11 @@ responses:
   utter_madde_5_3:
   - text: "Birinci öğretim diploma programındaki öğrenciler birinci ya da ikinci öğretim diploma programına yatay geçiş yapabilmek için her iki programa da birbirinden bağımsız olarak başvurabilirler. Her iki diploma programına birden başvuran öğrenci, her iki programa da yatay geçiş yapma şartlarını sağlaması durumunda aksi yönde beyanı bulunmadığı sürece öncelikle birinci öğretim diploma programına yerleştirilir ve diğer programdaki başvurusu değerlendirmeye alınmaz. İkinci öğretimden sadece ikinci öğretim diploma programlarına yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programlarından başarı bakımından bulunduğu sınıfın ilk yüzde onuna girerek bir üst sınıfa geçen öğrenciler birinci öğretim diploma programlarına kontenjan dâhilinde yatay geçiş yapabilirler."
 
+  utter_madde_5_4:
+  - text: "Uzaktan öğretimden, üniversitemiz uzaktan öğretim diploma programlarına yatay geçiş yapılabilir. Uzaktan öğretimden örgün öğretim programlarına geçiş yapılabilmesi için, öğrencinin öğrenim görmekte olduğu programdaki genel not ortalamasının 100 üzerinden 80 veya üzeri olması veya kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği diploma programının o yılki taban puanına eşit veya yüksek olması gerekir."
 
-
+  utter_madde_5_5:
+  - text: "Birinci veya ikinci öğretim diploma programlarından uzaktan eğitim veren diploma programlarına yatay geçiş yapılabilir."
 
 
 session_config:

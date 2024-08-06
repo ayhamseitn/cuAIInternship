@@ -113,3 +113,21 @@ nlu:
     - İkinci öğretimden birinci öğretime yatay geçiş yapabilir mi?
     - İkinci öğretim diploma programından birinci öğretim diploma programına geçiş yapabilmek için hangi şart sağlanmalıdır?
     - İkinci öğretim diploma programından birinci öğretim diploma programına geçişte kontenjan durumu nasıl belirlenir?
+
+- intent: madde_5_4
+  examples: |
+    - Uzaktan öğretim programından hangi programlara yatay geçiş yapılabilir?
+    - Uzaktan öğretimden örgün öğretim programına geçiş yapabilmek için hangi not ortalaması gereklidir?
+    - Örgün öğretim programına geçiş yapabilmek için merkezi yerleştirme puanının hangi koşulu sağlaması gerekir?
+    - Uzaktan öğretimden örgün öğretim programlarına geçiş yapabilmek için gerekli olan genel not ortalaması nedir?
+
+- intent: madde_5_5
+  examples: |
+    - Birinci öğretim diploma programlarından uzaktan eğitim veren diploma programlarına yatay geçiş yapılabilir mi?
+    - İkinci öğretim diploma programlarından uzaktan eğitim veren diploma programlarına geçiş yapılabilir mi?
+    - Hangi diploma programlarından uzaktan eğitim veren programlara yatay geçiş yapılabilir?
+    - Uzaktan eğitim veren diploma programlarına geçiş için birinci ve ikinci öğretim arasında fark var mı?
+
+- intent: madde_
+  examples: |
+    -
