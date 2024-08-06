@@ -46,95 +46,90 @@ stories:
 
 - story: s_madde_5_4
   steps:
-  - intent: madde_4
-  - actions: madde_4
+  - intent: madde_5_4
+  - actions: utter_madde_5_4
 
 - story: s_madde_5_5
   steps:
-  - intent: madde_5
-  - actions: madde_5
+  - intent: madde_5_5
+  - actions: utter_madde_5_5
 
 - story: s_madde_6_1
   steps:
   - intent: madde_6_1
-  - actions: madde_6_1
+  - actions: utter_madde_6_1
 
 - story: s_madde_6_2
   steps:
   - intent: madde_6_2
-  - actions: madde_6_2
+  - actions: utter_madde_6_2
 
 - story: s_madde_6_3 
   steps:
   - intent: madde_6_3 
-  - actions: madde_6_3 
+  - actions: utter_madde_6_3 
 
 - story: s_madde_6_4
   steps:
   - intent: madde_6_4
-  - actions: madde_6_4
+  - actions: utter_madde_6_4
 
 - story: s_madde_6_5
   steps:
   - intent: madde_6_5
-  - actions: madde_6_5
+  - actions: utter_madde_6_5
 
 - story: s_madde_6_6
   steps:
   - intent: madde_6_6
-  - actions: madde_6_6
+  - actions: utter_madde_6_6
 
 - story: s_madde_6_7
   steps:
   - intent: madde_6_7
-  - actions: madde_6_7
+  - actions: utter_madde_6_7
 
 - story: s_madde_6_8
   steps:
   - intent: madde_6_8
-  - actions: madde_6_8
+  - actions: utter_madde_6_8
 
 - story: s_madde_7_1
   steps:
   - intent: madde_7_1
-  - actions: madde_7_1
+  - actions: utter_madde_7_1
 
 - story: s_madde_7_2
   steps:
   - intent: madde_7_2
-  - actions: madde_7_2
+  - actions: utter_madde_7_2
 
 - story: s_madde_7_3
   steps:
   - intent: madde_7_3
-  - actions: madde_7_3
+  - actions: utter_madde_7_3
 
 - story: s_madde_8_1
   steps:
   - intent: madde_8_1
-  - actions: madde_8_1
+  - actions: utter_madde_8_1
 
 - story: s_madde_8_2
   steps:
   - intent: madde_8_2
-  - actions: madde_8_2
+  - actions: utter_madde_8_2
 
 - story: s_madde_8_3
   steps:
   - intent: madde_8_3
-  - actions: madde_8_3
+  - actions: utter_madde_8_3
 
 - story: s_madde_8_5
   steps:
   - intent: madde_8_5
-  - actions: madde_8_5
+  - actions: utter_madde_8_5
 
 - story: s_madde_8_6
   steps:
   - intent: madde_8_6
-  - actions: madde_8_6
-
-- story: s_madde_9_
-  steps:
-  - intent: madde_9_
-  - actions: madde_9_
+  - actions: utter_madde_8_6
