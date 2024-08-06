@@ -9,6 +9,26 @@ intents:
   - üzgün_hal
   - bot_challenge
   - madde_5_1
+  - madde_5_2
+  - madde_5_3
+  - madde_5_4
+  - madde_5_5
+  - madde_6_1
+  - madde_6_2
+  - madde_6_3
+  - madde_6_4
+  - madde_6_5
+  - madde_6_6
+  - madde_6_7
+  - madde_6_8
+  - madde_7_1
+  - madde_7_2
+  - madde_7_3
+  - madde_8_1
+  - madde_8_2
+  - madde_8_3
+  - madde_8_5
+  - madde_8_6
 
 responses:
   utter_greet:
