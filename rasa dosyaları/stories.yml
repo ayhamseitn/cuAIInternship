@@ -93,3 +93,48 @@ stories:
   steps:
   - intent: madde_6_8
   - actions: madde_6_8
+
+- story: s_madde_7_1
+  steps:
+  - intent: madde_7_1
+  - actions: madde_7_1
+
+- story: s_madde_7_2
+  steps:
+  - intent: madde_7_2
+  - actions: madde_7_2
+
+- story: s_madde_7_3
+  steps:
+  - intent: madde_7_3
+  - actions: madde_7_3
+
+- story: s_madde_8_1
+  steps:
+  - intent: madde_8_1
+  - actions: madde_8_1
+
+- story: s_madde_8_2
+  steps:
+  - intent: madde_8_2
+  - actions: madde_8_2
+
+- story: s_madde_8_3
+  steps:
+  - intent: madde_8_3
+  - actions: madde_8_3
+
+- story: s_madde_8_5
+  steps:
+  - intent: madde_8_5
+  - actions: madde_8_5
+
+- story: s_madde_8_6
+  steps:
+  - intent: madde_8_6
+  - actions: madde_8_6
+
+- story: s_madde_9_
+  steps:
+  - intent: madde_9_
+  - actions: madde_9_
