@@ -28,3 +28,8 @@ stories:
   - action: utter_did_that_help
   - intent: reddetme
   - action: utter_goodbye
+
+- story: s_madde_5_1
+  steps:
+  - intent: madde_5_1
+  - action: utter_madde_5_1
