@@ -69,6 +69,15 @@ responses:
   - text: "Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır."
 
 
+  utter_madde_7_1:
+  - text: "Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, Çukurova Üniversitesinin internet sayfasında duyurulur. Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir."
+
+  utter_madde_7_2:
+  - text: "Başarı şartını taşıyan yeterli sayıda adayın olması hâlinde kontenjan sayısı kadar yedek aday ilan edilir. Belirlenen süre içinde asıl adaylardan başvuru yapılmaması hâlinde sırayla yedekler çağrılır."
+
+  utter_madde_7_3:
+  - text: "İlgili komisyonlar öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak, 6. maddede belirtilen esaslara göre öğrencinin hangi yarıyıla veya sınıfa intibak ettirileceğini tespit eder, varsa öğrencinin alması gereken ilave derslerden oluşan bir intibak programı ile muaf tutulması gereken dersleri belirler. \n \n 6. MADDE: \n \n (1) Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır. \n (2) Kurum (üniversite) içi programlar arası yatay geçişlerde, öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır. \n (3) Kurumlar arası yatay geçişte, öğrencinin kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış olması, ayrıca bitirmiş olduğu dönemlere ait genel not ortalamasının 100 üzerinden en az 70 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması gerekir. \n (4) Kayıt dondurmuş olmak, yatay geçiş hakkından yararlanmak için engel teşkil etmez. Kayıt dondurmuş olan öğrencilerin başvurdukları yarıyıl itibariyle kayıtlı olduğu diploma programlarında sorumlu oldukları tüm derslerden başarılı olmaları gerekir. \n (5) Yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır. \n (6) Başvurularla ilgili ön değerlendirmeyi, bu yönerge çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan yatay geçiş komisyonları yapar. Başvurular, adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, yukarıda belirlenmiş olan kıstaslara göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır. \n (7) Diploma programına yatay geçiş yerleştirme işlemleri, Çukurova Üniversitesinin ilgili yönetim kurulu kararı üzerine yapılır. \n (8) Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır."
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

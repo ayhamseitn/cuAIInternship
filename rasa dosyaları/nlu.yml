@@ -185,3 +185,21 @@ nlu:
     - Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının neye göre birbirine dönüştürlür?
     - Dörtlük sisteme göre alınmış notlar nasıl yüzlük sisteme dönüştürülür?
     - Yüzlük sisteme göre alınmış notlar nasıl dörtlük sisteme dönüştürülür?
+
+- intent: madde_7_1
+  examples: |
+    - Yatay geçiş başvuru sonuçları nasıl duyurulur?
+    - Çukurova Üniversitesi'nde yatay geçiş sonuçları hangi platformda açıklanır?
+    - Yatay geçiş hakkı kazanan öğrencilere karar nasıl tebliğ edilir?
+    - Yatay geçiş başvurusu sonuçları hakkında bilgi almak için hangi kaynağa başvurulmalıdır?
+
+- intent: madde_7_2
+  examples: |
+    - Yatay geçiş başvurusu yapan yedek adaylar nasıl çağrılır?
+
+- intent: madde_7_3
+  examples: |
+    - Yatay geçiş yapan öğrencinin hangi yarıyıla veya sınıfa intibak ettirileceği nasıl tespit edilir?
+    - İlgili komisyonlar hangi dersleri dikkate alarak intibak işlemi yapar?
+    - Öğrencinin alması gereken ilave dersler nasıl belirlenir?
+    - Muaf tutulması gereken dersler nasıl belirlenir?
