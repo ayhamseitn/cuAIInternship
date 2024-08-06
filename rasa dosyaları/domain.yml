@@ -32,6 +32,16 @@ responses:
   utter_madde_5_1:
   - text: "Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz."
 
+  utter_madde_5_2:
+  - text: "Üniversite içinde aynı diploma programlarında birinci öğretimden ikinci öğretime kontenjan sınırlaması olmaksızın yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programına geçiş yapan öğrenciler ikinci öğretim ücreti öderler."
+
+  utter_madde_5_3:
+  - text: "Birinci öğretim diploma programındaki öğrenciler birinci ya da ikinci öğretim diploma programına yatay geçiş yapabilmek için her iki programa da birbirinden bağımsız olarak başvurabilirler. Her iki diploma programına birden başvuran öğrenci, her iki programa da yatay geçiş yapma şartlarını sağlaması durumunda aksi yönde beyanı bulunmadığı sürece öncelikle birinci öğretim diploma programına yerleştirilir ve diğer programdaki başvurusu değerlendirmeye alınmaz. İkinci öğretimden sadece ikinci öğretim diploma programlarına yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programlarından başarı bakımından bulunduğu sınıfın ilk yüzde onuna girerek bir üst sınıfa geçen öğrenciler birinci öğretim diploma programlarına kontenjan dâhilinde yatay geçiş yapabilirler."
+
+
+
+
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true

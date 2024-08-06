@@ -97,3 +97,19 @@ nlu:
     - Önlisans diploma programlarının son yarıyılına yatay geçiş mümkün müdür?
     - Hangi diploma programlarının hazırlık sınıfına yatay geçiş yapılamaz?
     - Lisans diploma programlarının son iki yarıyılına yatay geçiş yapılabilir mi?
+
+- intent: madde_5_2
+  examples: |
+    - Aynı diploma programında birinci öğretimden ikinci öğretime yatay geçiş yapılabilir mi?
+    - İkinci öğretime yatay geçişte kontenjan sınırlaması var mı?
+    - İkinci öğretim diploma programına geçen öğrenciler hangi ücreti öderler?
+    - Birinci öğretimden ikinci öğretime geçiş yapan öğrenciler ekstra ücret öder mi?
+    - Yatay geçiş yaparken birinci ve ikinci öğretim arasında herhangi bir kısıtlama var mı?
+
+- intent: madde_5_3
+  examples: |
+    - Birinci öğretim diploma programındaki öğrenciler hangi programlara yatay geçiş başvurusu yapabilirler?
+    - Her iki diploma programına da başvuran bir öğrenci hangi programa öncelikle yerleştirilir?
+    - İkinci öğretimden birinci öğretime yatay geçiş yapabilir mi?
+    - İkinci öğretim diploma programından birinci öğretim diploma programına geçiş yapabilmek için hangi şart sağlanmalıdır?
+    - İkinci öğretim diploma programından birinci öğretim diploma programına geçişte kontenjan durumu nasıl belirlenir?
