@@ -232,24 +232,84 @@ nlu:
     - Yetenek sınavı ile öğrenci alan programlara geçiş yaparken öğrencinin hangi şartları sağlaması gerekir?
     - Kurum içi yatay geçişlerde yetenek sınavının rolü nedir?
 
+- intent: madde_9_1
+  examples: |
+    - Kurumlar arası yatay geçiş hangi diploma programları arasında yapılabilir?
+    - Kurumlar arası yatay geçiş yaparken hangi kontenjanlar dikkate alınır?
+    - Üniversitenize kurumlar arası yatay geçiş hangi programlar arasında mümkündür?
+    - Yatay geçiş yapabilmek için hangi kurum tarafından yayınlanan kontenjanlar dikkate alınır?
 
+- intent: madde_9_2
+  examples: |
+    - Kurumlar arası yatay geçiş yapabilmek için öğrencinin genel not ortalaması en az kaç olmalıdır?
+    - Yatay geçiş yapabilmek için merkezi yerleştirme puanı nasıl olmalıdır?
+    - Kurumlar arası yatay geçişte öğrencinin hangi akademik kriteri sağlaması gerekir?
+    - Yatay geçiş yapabilmek için öğrencinin merkezi yerleştirme puanı neye göre değerlendirilir?
+    - Kurumlar arası yatay geçişte genel not ortalamasının asgari düzeyi nedir?
 
+- intent: madde_9_3
+  examples: |
+    - Çukurova Üniversitesi için belirlenen kurumlar arası yatay geçiş kontenjanları nerede ilan edilir?
+    - Kurumlar arası Yatay geçiş başvuru ve değerlendirme takvimi nerede duyurulur?
+    - Kurumlar arası Yatay geçiş kontenjanları ile ilgili bilgilere nasıl ulaşabilirim?
+    - Üniversiteler arası Yatay geçiş başvurusu yapmak isteyen öğrenciler takvimi nerede bulabilir?
+    - Üniversiteler arası yatay geçiş kontenjanlarının duyurusu hangi kurumun internet sayfasında yapılır?
 
+- intent: madde_9_4
+  examples: |
+    - Hangi sınıflar için kurumlar arası yatay geçiş kontenjanı belirlenir?
+    - ÖSYM giriş genel kontenjanı 50 ve 50’den az olan diploma programlarında kaç adet yatay geçiş kontenjanı belirlenir?
+    - ÖSYM giriş genel kontenjanı 51 ve 100 arasında olan diploma programlarında kaç adet yatay geçiş kontenjanı belirlenir?
+    - ÖSYM giriş genel kontenjanı 101 ve üzerinde olan diploma programlarında kaç adet yatay geçiş kontenjanı belirlenir?
 
+- intent: madde_9_5
+  examples: |
+    - Tamamen veya kısmen yabancı dil ile eğitim yapan yükseköğretim kurumlarına yatay geçiş için ne gereklidir?
+    - Başvuru sırasında yabancı dil yeterliliği nasıl kanıtlanır?
+    - Tamamen yabancı dil ile eğitim yapan yükseköğretim kurumlarına yatay geçiş için ne gereklidir?
+    - Kısmen yabancı dil ile eğitim yapan yükseköğretim kurumlarına yatay geçiş için ne gereklidir?
 
+- intent: madde_9_6
+  examples: |
+    - Yatay geçişle geldiğimde, önceki diploma programından aldığım derslerin notları yeni transkriptime işlenecek mi?
+    - Yatay geçiş yaptıktan sonra, önceki okuldan aldığım ve başarılı olduğum derslerin intibakı nasıl yapılır?
+    - Yatay geçiş sonrası önceki programdaki derslerim ve notlarım nasıl değerlendirilecek?
+    - Yatay geçişle geldiğimde, eski okulda başarılı olduğum dersler yeni transkriptimde görünecek mi?
+    - Yatay geçişle önceki okuldan aldığım derslerin notları Çukurova Üniversitesi transkriptime nasıl yansıtılır?
+    - Yatay geçiş yaptığımda, eski transkriptimdeki notlarım yeni okuluma nasıl aktarılacak?
+    - Önceki diploma programımdaki derslerim ve notlarım Çukurova Üniversitesi'nde geçerli olacak mı?
+    - Yatay geçişle geldiğimde, eski okuldan aldığım derslerin notları Çukurova Üniversitesi'nde nasıl hesaplanacak?
+    - Yatay geçiş sonrası önceki okulda aldığım derslerin notları yeni transkriptimde aynı şekilde mi görünecek?
+    - Eski okuldan aldığım derslerin ve notların yeni transkriptime işlenmesi süreci nasıl işler?
 
+- intent: madde_9_7
+  examples: |
+    - Yatay geçiş değerlendirme sonuçları nerede ilan edilir?
+    - Geçerli başvurusu olan adayların isimleri nasıl sıralanır?
+    - Yatay geçiş değerlendirme sonuçlarında hangi bilgiler yer alır?
 
+- intent: madde_9_8
+  examples: |
+    - Yatay geçiş başvurularında ön değerlendirmeyi kim yapar?
+    - Yatay geçiş başvurusu değerlendirmesinde hangi puanlar dikkate alınır?
+    - Yatay geçiş değerlendirmesi sonucunda nasıl bir sıralama yapılır?
+    - Kontenjan dâhilinde yatay geçiş yapacak öğrenciler nasıl belirlenir?
+    - Yatay geçiş başvurusu değerlendirilirken hangi kriterler ön plandadır?
+    - ÖSYS puanının ve Genel Not Ortalamasının hangi yüzdeleri toplanır?
 
+- intent: madde_9_9
+  examples: |
+    - Kurumlar arası yatay geçişlerde asıl adaylar başvurmazsa ne olur?
+    - Üniversiteler arası yatay geçişlerde yedek adayların başvurusu ne zaman alınır?
+    - Kurumlar arası yatay geçişlerde yatay geçiş hakkı kazanan öğrencilerin intibak programları nasıl düzenlenir?
+    - Üniversiteler arası yatay geçişlerde yatay geçiş hakkı kazanan öğrencilerin ders programı ne zaman başlayacak?
 
-
-
-
-
-
-
-
-
-
+- intent: madde_9_10
+  examples: |
+    - Özel yetenek sınavı ile öğrenci alan programlara yatay geçiş başvurusu yapabilir miyim?
+    - Özel yetenek sınavı ile öğrenci kabul eden bir programa yatay geçiş başvurusu yapabilmem için ne gereklidir?
+    - Hangi durumlarda özel yetenek sınavı ile öğrenci kabul eden programlara yatay geçiş başvurusu yapılabilir?
+    - Özel yetenek sınavı ile öğrenci alınan bir programa yatay geçiş yapabilir miyim?
 
 
 
