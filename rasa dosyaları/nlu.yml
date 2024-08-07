@@ -311,5 +311,85 @@ nlu:
     - Hangi durumlarda özel yetenek sınavı ile öğrenci kabul eden programlara yatay geçiş başvurusu yapılabilir?
     - Özel yetenek sınavı ile öğrenci alınan bir programa yatay geçiş yapabilir miyim?
 
+- intent: madde_11_1
+  examples: |
+    - Kurumlar arası yatay geçiş kontenjanı belirlenirse, bu kontenjan ne kadarını aşabilir?
+    - Yurt dışı yükseköğretim kurumları kontenjanları ve başvuru şartları ne zaman bildirilir?
+    - Yurt dışı yükseköğretim kurumlarından yapılacak yatay geçişlerin başvuru şartları ne zaman açıklanır?
+    - Çukurova Üniversitesi Senatosu tarafından belirlenen yurt dışı yükseköğretim kurumları kontenjanları nasıl bildirilir?
+
+- intent: madde_11_3
+  examples: |
+    - Yurt dışındaki yükseköğretim kurumlarından yatay geçiş yapmak isteyen öğrenciler hangi koşullarda başvuru yapabilirler?
+    - Yurt dışında yükseköğrenim gördüğü derslerin başarı şartı aranmaksızın yatay geçiş başvurusu yapılabilir mi?
+    - Yurt dışından yatay geçiş başvurusu yapacak öğrenciler için hangi değerlendirme esasları uygulanır?
+    - Yurt dışı yatay geçiş başvurusu nasıl bir kontenjan kapsamına girer?
+    - Taban puana sahip olan öğrenciler yurt dışından yatay geçiş başvurusu yapabilir mi?
+
+- intent: madde_11_4
+  examples: |
+    - Yurtdışındaki üniversitelerden yatay geçiş başvurusu yaparken hangi şartların sağlanması gerekir?
+    - Yükseköğretim Kurulu'nun tanıdığı yurt dışı kurumlar için yatay geçiş başvurusu yapabilir miyim?
+    - Yurt dışı yükseköğretim kurumunun diploma vermeye yetkili olduğunu nasıl doğrularım?
+
+- intent: madde_11_5
+  examples: |
+    - Yurtdışında yükseköğretime başlayan bir öğrenci Türkiye’deki yükseköğretim programlarına geçiş başvurusu yaparken hangi puanlar dikkate alınır?
+    - Yurtdışından Türkiye’ye yatay geçiş başvurusu yapabilmek için hangi puanları sağlamam gerekir?
+    - Yükseköğretim Kurulu, yurt dışındaki sınavların eşdeğerliğini nasıl belirler?
+
+- intent: madde_11_6
+  examples: |
+    - Yurt dışındaki yükseköğretim kurumlarından yatay geçişte bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı ne kadar olabilir?
+    - Yurt dışı kontenjanının yüzde 15’i hesaplanırken nasıl bir yuvarlama kuralı uygulanır?
+
+- intent: ek_madde_1_1
+  examples: |
+    - Öğrencinin EK MADDE-1 ile yatay geçiş başvurusu yapabilmesi için merkezi yerleştirme puanı ne olmalıdır?
+    - Hazırlık sınıfı olan bir programda EK MADDE-1 ile yatay geçiş başvurusu yapılabilir mi?
+    - EK MADDE-1 ile yatay geçiş başvuru takvimi ve esaslar nasıl belirlenir?
+    - EK MADDE-1 ile yapılan yatay geçişlerde başvurular kontenjandan fazla olduğunda nasıl bir sıralama yapılır?
+
+- intent: ek_madde_1_2
+  examples: |
+    - EK MADDE-1 ile farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri nasıl hesaplanır?
+    - EK MADDE-1 kapsamında yapılan yatay geçişlerde azami süre hesaplamasında hangi faktör dikkate alınır?
+    - Eğitim gördüğüm programdan farklı bir programa EK MADDE-1 ile yatay geçiş yaptıktan sonra sürem nasıl belirlenir?
+
+- intent: ek_madde_2_1
+  examples: |
+    - Şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilir mi?
+    - İnsani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilir mi?
+    - Şiddet olayları nedeniyle eğitim öğretimin sürdürülemez olduğu ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilir mi?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
