@@ -208,3 +208,18 @@ stories:
   steps:
   - intent: madde_11_6
   - action: utter_madde_11_6
+
+- story: s_ek_madde_1_1
+  steps: 
+  - intent: ek_madde_1_1
+  - action: utter_ek_madde_1_1
+
+- story: s_ek_madde_1_2
+  steps: 
+  - intent: ek_madde_1_2
+  - action: utter_ek_madde_1_2
+
+- story: s_ek_madde_2_1
+  steps: 
+  - intent: ek_madde_2_1
+  - action: utter_ek_madde_2_1

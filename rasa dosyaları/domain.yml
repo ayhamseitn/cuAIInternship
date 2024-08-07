@@ -44,6 +44,9 @@ intents:
   - madde_11_4
   - madde_11_5
   - madde_11_6
+  - ek_madde_1_1
+  - ek_madde_1_2
+  - ek_madde_2_1
 
 responses:
   utter_greet:
@@ -172,7 +175,14 @@ responses:
   utter_madde_11_6:
   - text: "Yurt dışındaki yükseköğretim kurumlarından yatay geçişte, yurt dışındaki aynı yükseköğretim kurumundan bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı o programın ilgili sınıfının yurt dışı kontenjanının yüzde 15’ini geçemez. Yüzde 15’in hesaplanmasında 1’in altındaki sayılar 1’e tamamlanır. Virgülden sonraki kısım 5’ten küçükse alttaki tam sayıya, 5 ve yukarısında ise bir üst tam sayıya tamamlanır."
 
+  utter_ek_madde_1_1:
+  - text: "Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci, hazırlık sınıfı da dahil olmak üzere yatay geçiş için başvuru yapabilir. Programa yatay geçişe ilişkin başvuru takvimi, öğrenci kontenjanına ilişkin esaslar ile yatay geçişlere ilişkin usul ve esaslar Yükseköğretim Yürütme Kurulu tarafından tespit edilir. Belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek yatay geçişleri kabul edilir. Başvurunun kontenjandan fazla olduğu durumlarda ÖSYS puanı en yüksek adaydan başlayıp sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir."
 
+  utter_ek_madde_1_2:
+  - text: "EK MADDE-1 kapsamında eğitim gördüğü programdan farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır."
+
+  utter_ek_madde_2_1:
+  - text: "Şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu Yükseköğretim Kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilirler. Bu konuya ilişkin usul ve esaslar Yükseköğretim Kurulu tarafından belirlenir."
 
 
 
