@@ -133,3 +133,93 @@ stories:
   steps:
   - intent: madde_8_6
   - action: utter_madde_8_6
+
+- story: s_madde_9_1
+  steps:
+  - intent: madde_9_1
+  - action: utter_madde_9_1
+
+- story: s_madde_9_2
+  steps:
+  - intent: madde_9_2
+  - action: utter_madde_9_2
+
+- story: s_madde_9_3
+  steps:
+  - intent: madde_9_3
+  - action: utter_madde_9_3
+
+- story: s_madde_9_4
+  steps:
+  - intent: madde_9_4
+  - action: utter_madde_9_4
+
+- story: s_madde_9_5
+  steps:
+  - intent: madde_9_5
+  - action: utter_madde_9_5
+
+- story: s_madde_9_6
+  steps:
+  - intent: madde_9_6
+  - action: utter_madde_9_6
+
+- story: s_madde_9_7
+  steps:
+  - intent: madde_9_7
+  - action: utter_madde_9_7
+
+- story: s_madde_9_8
+  steps:
+  - intent: madde_9_8
+  - action: utter_madde_9_8
+
+- story: s_madde_9_9
+  steps:
+  - intent: madde_9_9
+  - action: utter_madde_9_9
+
+- story: s_madde_9_10
+  steps:
+  - intent: madde_9_10
+  - action: utter_madde_9_10
+
+- story: s_madde_11_1
+  steps:
+  - intent: madde_11_1
+  - action: utter_madde_11_1
+
+- story: s_madde_11_3
+  steps:
+  - intent: madde_11_3
+  - action: utter_madde_11_3
+
+- story: s_madde_11_4
+  steps:
+  - intent: madde_11_4
+  - action: utter_madde_11_4
+
+- story: s_madde_11_5
+  steps:
+  - intent: madde_11_5
+  - action: utter_madde_11_5
+
+- story: s_madde_11_6
+  steps:
+  - intent: madde_11_6
+  - action: utter_madde_11_6
+
+- story: s_ek_madde_1_1
+  steps: 
+  - intent: ek_madde_1_1
+  - action: utter_ek_madde_1_1
+
+- story: s_ek_madde_1_2
+  steps: 
+  - intent: ek_madde_1_2
+  - action: utter_ek_madde_1_2
+
+- story: s_ek_madde_2_1
+  steps: 
+  - intent: ek_madde_2_1
+  - action: utter_ek_madde_2_1

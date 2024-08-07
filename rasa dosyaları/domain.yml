@@ -29,6 +29,24 @@ intents:
   - madde_8_3
   - madde_8_5
   - madde_8_6
+  - madde_9_1
+  - madde_9_2
+  - madde_9_3
+  - madde_9_4
+  - madde_9_5
+  - madde_9_6
+  - madde_9_7
+  - madde_9_8
+  - madde_9_9
+  - madde_9_10
+  - madde_11_1
+  - madde_11_3
+  - madde_11_4
+  - madde_11_5
+  - madde_11_6
+  - ek_madde_1_1
+  - ek_madde_1_2
+  - ek_madde_2_1
 
 responses:
   utter_greet:
@@ -88,7 +106,6 @@ responses:
   utter_madde_6_8:
   - text: "Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır."
 
-
   utter_madde_7_1:
   - text: "Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, Çukurova Üniversitesinin internet sayfasında duyurulur. Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir."
 
@@ -113,9 +130,59 @@ responses:
   utter_madde_8_6:
   - text: "Yetenek sınavı ile öğrenci alan diploma programlarına kurum içi yatay geçişlerde diğer şartların yanı sıra yetenek sınavında da başarılı olma şartı aranır."
 
+  utter_madde_9_1:
+  - text: "Üniversitemize kurumlar arası yatay geçiş, aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır. "
 
+  utter_madde_9_2:
+  - text: "Bu şekilde yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlere ait genel not ortalamasının en az 100 üzerinden 70 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması şarttır."
 
+  utter_madde_9_3:
+  - text: "Üniversitemiz için belirlenen yatay geçiş kontenjanları ile başvuru ve değerlendirm takvimi, Yükseköğretim Kurulu internet sayfasında ilan edilir."
 
+  utter_madde_9_4:
+  - text: "Her yıl düzenli olarak ikinci, üçüncü, dördüncü ve beşinci sınıflar için, ÖSYM giriş genel kontenjanı 50 ve 50’den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört adet kurumlar arası yatay geçiş kontenjanı belirlenir."
+
+  utter_madde_9_5:
+  - text: "Tamamen veya kısmen yabancı dil ile eğitim yapan yükseköğretim kurumlarına yatay geçiş için ilgili yükseköğretim kurumunun yapacağı yabancı dil yeterlilik sınavından başarılı olmak ya da ulusal veya uluslararası geçerliliği olan yabancı dil sınavlarından üniversitemizin belirlediği başarı düzeyinde bir puanı başvuru sırasında belgelemek şarttır."
+
+  utter_madde_9_6:
+  - text: "Yatay geçişle gelen öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibaklarının yapılarak, bu derslere ilişkin daha önce alınan notlar transkripte işlenir. "
+
+  utter_madde_9_7:
+  - text: "Üniversitemize kurumlar arası yapılan yatay geçiş değerlendirme sonuçları, geçerli başvurusu olan tüm adayların isimleri, değerlendirmede esas alınan puanlara göre sıralanmış biçimde Çukurova Üniversitesinin internet sayfasında ilan edilir."
+
+  utter_madde_9_8:
+  - text: "Başvurularla ilgili ön değerlendirmeyi, bu yönerge çerçevesinde, yatay geçiş komisyonu yapar. Yatay geçiş başvurusunda bulunan öğrencilerin değerlendirilmesi, öğrencinin programa yerleştiği yıldaki Ölçme, Seçme ve Yerleştirme Sistemi (ÖSYS) ndeki yerleştirme puanının yüzde altmışı ile öğrenim gördüğü yükseköğretim kurumundaki Genel Not Ortalamasının yüzlük not sistemindeki değerinin yüzde kırkının toplanması ile bulunan puana göre yapılır. Elde edilen notlar büyükten küçüğe doğru sıralandıktan sonra en yüksek notlu öğrenciden başlayarak kontenjan dâhilinde yatay geçiş yapacak öğrenciler belirlenir."
+
+  utter_madde_9_9:
+  - text: "Yeterli şartları taşıyan aday olması hâlinde aynı sayıda asıl ve yedek aday belirlenir. Takvimde belirlenen süre içinde başvurmayan asıl adaylar yerine yedeklerin başvurusu alınır. Yatay geçiş hakkı kazanan öğrencilerin intibak programları, bu öğrencilerin yeni akademik yarıyıla diğer öğrencilerle aynı tarihte başlamasını sağlayacak biçimde yapılır."
+
+  utter_madde_9_10:
+  - text: "Özel yetenek sınavı ile öğrenci alan Üniversitemiz diploma programlarına, kurumlar arası yatay geçiş başvurusunda bulunan öğrencilerin, daha önce yerleştiği programa özel yetenek sınavı ile yerleşmemiş ise başvuruları kabul edilmez."
+
+  utter_madde_11_1:
+  - text: "Çukurova Üniversitesi Senatosu tarafından yurtdışındaki yükseköğretim kurumlarından yapılacak yatay geçişler için kontenjan belirlenebilir. Kontenjan belirlenmesi hâlinde her bir program için kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde belirlenen yurt dışı yükseköğretim kurumları kontenjanları ile üniversite senatosu tarafından belirlenen başvuru şartları, kurumlar arası yatay geçiş kontenjanları ile birlikte Yükseköğretim Kuruluna en geç haziran ayının otuzuncu günü mesai saati bitimine kadar bildirilir. Yükseköğretim Kurulu internet sayfasında tüm yükseköğretim kurumlarının yurt dışı öğrenci kontenjanları ile başvuru şartları ve değerlendirme takvimi ilan edilir."
+
+  utter_madde_11_3:
+  - text: "Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin yatay geçiş yapmak istediği, üniversitemizdeki diploma programının ilgili sınıfına öğrenci kabulündeki taban puana sahip öğrenciler, yurt dışında yükseköğrenim gördüğü tüm derslerden başarı şartı aranmaksızın yatay geçiş başvurusu yapabilirler. Bu yolla başvuran öğrencilerin yatay geçiş başvurusu üniversite senatosu tarafından belirlenen esaslar çerçevesinde yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirilir."
+
+  utter_madde_11_4:
+  - text: "Yurtdışı üniversitelerden yapılan başvurularda öğrencinin yurt dışında öğrenim gördüğü yükseköğretim kurumunun ve eğitimin yapıldığı programın ön lisans veya lisans diploma vermeye yetkili bir kurum olarak Yükseköğretim Kurulu tarafından tanınması ve kayıtlı olduğu diploma programının, yatay geçiş için başvurduğu önlisans veya lisans diploma programına eşdeğerliğinin Çukurova Üniversitesi tarafından kabul edilmesi şartı aranır."
+
+  utter_madde_11_5:
+  - text: "Yurtdışında yükseköğretime başlayan öğrencilerin Türkiye’deki yükseköğretim programlarına geçiş başvurularının değerlendirilmesinde kullanılacak olanÖSYM tarafından yapılan Öğrenci Seçme ve Yerleştirme Sınavlarındaki asgari puanlar ile bunlara eşdeğerliği kabul edilen sınavlar ve puanları, üniversiteler tarafından belirlenen yurtdışı yatay geçiş kontenjanları ile birlikte Yükseköğretim Kurulu tarafından ilan edilir. Adayların, yatay geçiş başvurusu yapabilmeleri için en az ilan edilen puanlara veya üzerindeki puanlara sahip olması gerekir."
+
+  utter_madde_11_6:
+  - text: "Yurt dışındaki yükseköğretim kurumlarından yatay geçişte, yurt dışındaki aynı yükseköğretim kurumundan bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı o programın ilgili sınıfının yurt dışı kontenjanının yüzde 15’ini geçemez. Yüzde 15’in hesaplanmasında 1’in altındaki sayılar 1’e tamamlanır. Virgülden sonraki kısım 5’ten küçükse alttaki tam sayıya, 5 ve yukarısında ise bir üst tam sayıya tamamlanır."
+
+  utter_ek_madde_1_1:
+  - text: "Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci, hazırlık sınıfı da dahil olmak üzere yatay geçiş için başvuru yapabilir. Programa yatay geçişe ilişkin başvuru takvimi, öğrenci kontenjanına ilişkin esaslar ile yatay geçişlere ilişkin usul ve esaslar Yükseköğretim Yürütme Kurulu tarafından tespit edilir. Belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek yatay geçişleri kabul edilir. Başvurunun kontenjandan fazla olduğu durumlarda ÖSYS puanı en yüksek adaydan başlayıp sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir."
+
+  utter_ek_madde_1_2:
+  - text: "EK MADDE-1 kapsamında eğitim gördüğü programdan farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır."
+
+  utter_ek_madde_2_1:
+  - text: "Şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu Yükseköğretim Kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilirler. Bu konuya ilişkin usul ve esaslar Yükseköğretim Kurulu tarafından belirlenir."
 
 
 
