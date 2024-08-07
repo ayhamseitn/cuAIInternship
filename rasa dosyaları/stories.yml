@@ -183,3 +183,28 @@ stories:
   steps:
   - intent: madde_9_10
   - action: utter_madde_9_10
+
+- story: s_madde_11_1
+  steps:
+  - intent: madde_11_1
+  - action: utter_madde_11_1
+
+- story: s_madde_11_3
+  steps:
+  - intent: madde_11_3
+  - action: utter_madde_11_3
+
+- story: s_madde_11_4
+  steps:
+  - intent: madde_11_4
+  - action: utter_madde_11_4
+
+- story: s_madde_11_5
+  steps:
+  - intent: madde_11_5
+  - action: utter_madde_11_5
+
+- story: s_madde_11_6
+  steps:
+  - intent: madde_11_6
+  - action: utter_madde_11_6
