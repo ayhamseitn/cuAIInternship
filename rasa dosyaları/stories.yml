@@ -29,197 +29,280 @@ stories:
   - intent: reddetme
   - action: utter_goodbye
 
-- story: s_madde_5_1
-  steps:
-  - intent: madde_5_1
-  - action: utter_madde_5_1
 
-- story: s_madde_5_2
-  steps:
-  - intent: madde_5_2
-  - action: utter_madde_5_2
+## YATAYGEÇİŞ MADDELERİ
 
-- story: s_madde_5_3
+- story: s_yataygeçiş_madde_5_1
   steps:
-  - intent: madde_5_3
-  - action: utter_madde_5_3
+  - intent: yataygeçiş_madde_5_1
+  - action: utter_yataygeçiş_madde_5_1
 
-- story: s_madde_5_4
+- story: s_yataygeçiş_madde_5_2
   steps:
-  - intent: madde_5_4
-  - action: utter_madde_5_4
+  - intent: yataygeçiş_madde_5_2
+  - action: utter_yataygeçiş_madde_5_2
 
-- story: s_madde_5_5
+- story: s_yataygeçiş_madde_5_3
   steps:
-  - intent: madde_5_5
-  - action: utter_madde_5_5
+  - intent: yataygeçiş_madde_5_3
+  - action: utter_yataygeçiş_madde_5_3
 
-- story: s_madde_6_1
+- story: s_yataygeçiş_madde_5_4
   steps:
-  - intent: madde_6_1
-  - action: utter_madde_6_1
+  - intent: yataygeçiş_madde_5_4
+  - action: utter_yataygeçiş_madde_5_4
 
-- story: s_madde_6_2
+- story: s_yataygeçiş_madde_5_5
   steps:
-  - intent: madde_6_2
-  - action: utter_madde_6_2
+  - intent: yataygeçiş_madde_5_5
+  - action: utter_yataygeçiş_madde_5_5
 
-- story: s_madde_6_3 
+- story: s_yataygeçiş_madde_6_1
   steps:
-  - intent: madde_6_3 
-  - action: utter_madde_6_3 
+  - intent: yataygeçiş_madde_6_1
+  - action: utter_yataygeçiş_madde_6_1
 
-- story: s_madde_6_4
+- story: s_yataygeçiş_madde_6_2
   steps:
-  - intent: madde_6_4
-  - action: utter_madde_6_4
+  - intent: yataygeçiş_madde_6_2
+  - action: utter_yataygeçiş_madde_6_2
 
-- story: s_madde_6_5
+- story: s_yataygeçiş_madde_6_3 
   steps:
-  - intent: madde_6_5
-  - action: utter_madde_6_5
+  - intent: yataygeçiş_madde_6_3 
+  - action: utter_yataygeçiş_madde_6_3 
 
-- story: s_madde_6_6
+- story: s_yataygeçiş_madde_6_4
   steps:
-  - intent: madde_6_6
-  - action: utter_madde_6_6
+  - intent: yataygeçiş_madde_6_4
+  - action: utter_yataygeçiş_madde_6_4
 
-- story: s_madde_6_7
+- story: s_yataygeçiş_madde_6_5
   steps:
-  - intent: madde_6_7
-  - action: utter_madde_6_7
+  - intent: yataygeçiş_madde_6_5
+  - action: utter_yataygeçiş_madde_6_5
 
-- story: s_madde_6_8
+- story: s_yataygeçiş_madde_6_6
   steps:
-  - intent: madde_6_8
-  - action: utter_madde_6_8
+  - intent: yataygeçiş_madde_6_6
+  - action: utter_yataygeçiş_madde_6_6
 
-- story: s_madde_7_1
+- story: s_yataygeçiş_madde_6_7
   steps:
-  - intent: madde_7_1
-  - action: utter_madde_7_1
+  - intent: yataygeçiş_madde_6_7
+  - action: utter_yataygeçiş_madde_6_7
 
-- story: s_madde_7_2
+- story: s_yataygeçiş_madde_6_8
   steps:
-  - intent: madde_7_2
-  - action: utter_madde_7_2
+  - intent: yataygeçiş_madde_6_8
+  - action: utter_yataygeçiş_madde_6_8
 
-- story: s_madde_7_3
+- story: s_yataygeçiş_madde_7_1
   steps:
-  - intent: madde_7_3
-  - action: utter_madde_7_3
+  - intent: yataygeçiş_madde_7_1
+  - action: utter_yataygeçiş_madde_7_1
 
-- story: s_madde_8_1
+- story: s_yataygeçiş_madde_7_2
   steps:
-  - intent: madde_8_1
-  - action: utter_madde_8_1
+  - intent: yataygeçiş_madde_7_2
+  - action: utter_yataygeçiş_madde_7_2
 
-- story: s_madde_8_2
+- story: s_yataygeçiş_madde_7_3
   steps:
-  - intent: madde_8_2
-  - action: utter_madde_8_2
+  - intent: yataygeçiş_madde_7_3
+  - action: utter_yataygeçiş_madde_7_3
 
-- story: s_madde_8_3
+- story: s_yataygeçiş_madde_8_1
   steps:
-  - intent: madde_8_3
-  - action: utter_madde_8_3
+  - intent: yataygeçiş_madde_8_1
+  - action: utter_yataygeçiş_madde_8_1
 
-- story: s_madde_8_5
+- story: s_yataygeçiş_madde_8_2
   steps:
-  - intent: madde_8_5
-  - action: utter_madde_8_5
+  - intent: yataygeçiş_madde_8_2
+  - action: utter_yataygeçiş_madde_8_2
 
-- story: s_madde_8_6
+- story: s_yataygeçiş_madde_8_3
   steps:
-  - intent: madde_8_6
-  - action: utter_madde_8_6
+  - intent: yataygeçiş_madde_8_3
+  - action: utter_yataygeçiş_madde_8_3
 
-- story: s_madde_9_1
+- story: s_yataygeçiş_madde_8_5
   steps:
-  - intent: madde_9_1
-  - action: utter_madde_9_1
+  - intent: yataygeçiş_madde_8_5
+  - action: utter_yataygeçiş_madde_8_5
 
-- story: s_madde_9_2
+- story: s_yataygeçiş_madde_8_6
   steps:
-  - intent: madde_9_2
-  - action: utter_madde_9_2
+  - intent: yataygeçiş_madde_8_6
+  - action: utter_yataygeçiş_madde_8_6
 
-- story: s_madde_9_3
+- story: s_yataygeçiş_madde_9_1
   steps:
-  - intent: madde_9_3
-  - action: utter_madde_9_3
+  - intent: yataygeçiş_madde_9_1
+  - action: utter_yataygeçiş_madde_9_1
 
-- story: s_madde_9_4
+- story: s_yataygeçiş_madde_9_2
   steps:
-  - intent: madde_9_4
-  - action: utter_madde_9_4
+  - intent: yataygeçiş_madde_9_2
+  - action: utter_yataygeçiş_madde_9_2
 
-- story: s_madde_9_5
+- story: s_yataygeçiş_madde_9_3
   steps:
-  - intent: madde_9_5
-  - action: utter_madde_9_5
+  - intent: yataygeçiş_madde_9_3
+  - action: utter_yataygeçiş_madde_9_3
 
-- story: s_madde_9_6
+- story: s_yataygeçiş_madde_9_4
   steps:
-  - intent: madde_9_6
-  - action: utter_madde_9_6
+  - intent: yataygeçiş_madde_9_4
+  - action: utter_yataygeçiş_madde_9_4
 
-- story: s_madde_9_7
+- story: s_yataygeçiş_madde_9_5
   steps:
-  - intent: madde_9_7
-  - action: utter_madde_9_7
+  - intent: yataygeçiş_madde_9_5
+  - action: utter_yataygeçiş_madde_9_5
 
-- story: s_madde_9_8
+- story: s_yataygeçiş_madde_9_6
   steps:
-  - intent: madde_9_8
-  - action: utter_madde_9_8
+  - intent: yataygeçiş_madde_9_6
+  - action: utter_yataygeçiş_madde_9_6
 
-- story: s_madde_9_9
+- story: s_yataygeçiş_madde_9_7
   steps:
-  - intent: madde_9_9
-  - action: utter_madde_9_9
+  - intent: yataygeçiş_madde_9_7
+  - action: utter_yataygeçiş_madde_9_7
 
-- story: s_madde_9_10
+- story: s_yataygeçiş_madde_9_8
   steps:
-  - intent: madde_9_10
-  - action: utter_madde_9_10
+  - intent: yataygeçiş_madde_9_8
+  - action: utter_yataygeçiş_madde_9_8
 
-- story: s_madde_11_1
+- story: s_yataygeçiş_madde_9_9
   steps:
-  - intent: madde_11_1
-  - action: utter_madde_11_1
+  - intent: yataygeçiş_madde_9_9
+  - action: utter_yataygeçiş_madde_9_9
 
-- story: s_madde_11_3
+- story: s_yataygeçiş_madde_9_10
   steps:
-  - intent: madde_11_3
-  - action: utter_madde_11_3
+  - intent: yataygeçiş_madde_9_10
+  - action: utter_yataygeçiş_madde_9_10
 
-- story: s_madde_11_4
+- story: s_yataygeçiş_madde_11_1
   steps:
-  - intent: madde_11_4
-  - action: utter_madde_11_4
+  - intent: yataygeçiş_madde_11_1
+  - action: utter_yataygeçiş_madde_11_1
 
-- story: s_madde_11_5
+- story: s_yataygeçiş_madde_11_3
   steps:
-  - intent: madde_11_5
-  - action: utter_madde_11_5
+  - intent: yataygeçiş_madde_11_3
+  - action: utter_yataygeçiş_madde_11_3
 
-- story: s_madde_11_6
+- story: s_yataygeçiş_madde_11_4
   steps:
-  - intent: madde_11_6
-  - action: utter_madde_11_6
+  - intent: yataygeçiş_madde_11_4
+  - action: utter_yataygeçiş_madde_11_4
 
-- story: s_ek_madde_1_1
+- story: s_yataygeçiş_madde_11_5
+  steps:
+  - intent: yataygeçiş_madde_11_5
+  - action: utter_yataygeçiş_madde_11_5
+
+- story: s_yataygeçiş_madde_11_6
+  steps:
+  - intent: yataygeçiş_madde_11_6
+  - action: utter_yataygeçiş_madde_11_6
+
+- story: s_yataygeçiş_ek_madde_1_1
   steps: 
-  - intent: ek_madde_1_1
-  - action: utter_ek_madde_1_1
+  - intent: yataygeçiş_ek_madde_1_1
+  - action: utter_yataygeçiş_ek_madde_1_1
 
-- story: s_ek_madde_1_2
+- story: s_yataygeçiş_ek_madde_1_2
   steps: 
-  - intent: ek_madde_1_2
-  - action: utter_ek_madde_1_2
+  - intent: yataygeçiş_ek_madde_1_2
+  - action: utter_yataygeçiş_ek_madde_1_2
 
-- story: s_ek_madde_2_1
+- story: s_yataygeçiş_ek_madde_2_1
   steps: 
-  - intent: ek_madde_2_1
-  - action: utter_ek_madde_2_1
+  - intent: yataygeçiş_ek_madde_2_1
+  - action: utter_yataygeçiş_ek_madde_2_1
+
+
+## YABANCI DİL HAZIRLIK EĞİTİMİ
+
+- story: s_ydil_hazırlık_madde_3
+  steps: 
+  - intent: ydil_hazırlık_madde_3
+  - action: utter_ydil_hazırlık_madde_3
+
+- story: s_ydil_hazırlık_madde_4
+  steps: 
+  - intent: ydil_hazırlık_madde_4
+  - action: utter_ydil_hazırlık_madde_4
+
+- story: s_ydil_hazırlık_madde_5
+  steps: 
+  - intent: ydil_hazırlık_madde_5
+  - action: utter_ydil_hazırlık_madde_5
+
+- story: s_ydil_hazırlık_madde_6
+  steps: 
+  - intent: ydil_hazırlık_madde_6
+  - action: utter_ydil_hazırlık_madde_6
+
+- story: s_ydil_hazırlık_madde_7
+  steps: 
+  - intent: ydil_hazırlık_madde_7
+  - action: utter_ydil_hazırlık_madde_7
+
+- story: s_ydil_hazırlık_madde_8
+  steps: 
+  - intent: ydil_hazırlık_madde_8
+  - action: utter_ydil_hazırlık_madde_8
+
+- story: s_ydil_hazırlık_madde_
+  steps: 
+  - intent: ydil_hazırlık_madde_
+  - action: utter_ydil_hazırlık_madde_
+
+- story: s_ydil_hazırlık_madde_
+  steps: 
+  - intent: ydil_hazırlık_madde_
+  - action: utter_ydil_hazırlık_madde_
+
+- story: s_ydil_hazırlık_madde_
+  steps: 
+  - intent: ydil_hazırlık_madde_
+  - action: utter_ydil_hazırlık_madde_
+
+- story: s_ydil_hazırlık_madde_
+  steps: 
+  - intent: ydil_hazırlık_madde_
+  - action: utter_ydil_hazırlık_madde_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

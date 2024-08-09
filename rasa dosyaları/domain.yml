@@ -8,45 +8,58 @@ intents:
   - iyi_hal
   - üzgün_hal
   - bot_challenge
-  - madde_5_1
-  - madde_5_2
-  - madde_5_3
-  - madde_5_4
-  - madde_5_5
-  - madde_6_1
-  - madde_6_2
-  - madde_6_3
-  - madde_6_4
-  - madde_6_5
-  - madde_6_6
-  - madde_6_7
-  - madde_6_8
-  - madde_7_1
-  - madde_7_2
-  - madde_7_3
-  - madde_8_1
-  - madde_8_2
-  - madde_8_3
-  - madde_8_5
-  - madde_8_6
-  - madde_9_1
-  - madde_9_2
-  - madde_9_3
-  - madde_9_4
-  - madde_9_5
-  - madde_9_6
-  - madde_9_7
-  - madde_9_8
-  - madde_9_9
-  - madde_9_10
-  - madde_11_1
-  - madde_11_3
-  - madde_11_4
-  - madde_11_5
-  - madde_11_6
-  - ek_madde_1_1
-  - ek_madde_1_2
-  - ek_madde_2_1
+  ## YATAYGEÇİŞ MADDELERİ
+  - yataygeçiş_madde_5_1
+  - yataygeçiş_madde_5_2
+  - yataygeçiş_madde_5_3
+  - yataygeçiş_madde_5_4
+  - yataygeçiş_madde_5_5
+  - yataygeçiş_madde_6_1
+  - yataygeçiş_madde_6_2
+  - yataygeçiş_madde_6_3
+  - yataygeçiş_madde_6_4
+  - yataygeçiş_madde_6_5
+  - yataygeçiş_madde_6_6
+  - yataygeçiş_madde_6_7
+  - yataygeçiş_madde_6_8
+  - yataygeçiş_madde_7_1
+  - yataygeçiş_madde_7_2
+  - yataygeçiş_madde_7_3
+  - yataygeçiş_madde_8_1
+  - yataygeçiş_madde_8_2
+  - yataygeçiş_madde_8_3
+  - yataygeçiş_madde_8_5
+  - yataygeçiş_madde_8_6
+  - yataygeçiş_madde_9_1
+  - yataygeçiş_madde_9_2
+  - yataygeçiş_madde_9_3
+  - yataygeçiş_madde_9_4
+  - yataygeçiş_madde_9_5
+  - yataygeçiş_madde_9_6
+  - yataygeçiş_madde_9_7
+  - yataygeçiş_madde_9_8
+  - yataygeçiş_madde_9_9
+  - yataygeçiş_madde_9_10
+  - yataygeçiş_madde_11_1
+  - yataygeçiş_madde_11_3
+  - yataygeçiş_madde_11_4
+  - yataygeçiş_madde_11_5
+  - yataygeçiş_madde_11_6
+  - yataygeçiş_ek_madde_1_1
+  - yataygeçiş_ek_madde_1_2
+  - yataygeçiş_ek_madde_2_1
+  ## YABANCI DİL HAZIRLIK EĞİTİMİ
+  - ydil_hazırlık_madde_3
+  - ydil_hazırlık_madde_4
+  - ydil_hazırlık_madde_5
+  - ydil_hazırlık_madde_6
+  - ydil_hazırlık_madde_7
+  - ydil_hazırlık_madde_8
+  - 
+  - 
+  - 
+  - 
+  
 
 responses:
   utter_greet:
@@ -67,122 +80,201 @@ responses:
   utter_iamabot:
   - text: "Ben Rasa tarafından geliştirilmş bir botum."
 
-  utter_madde_5_1:
+
+ ## YATAYGEÇİŞ MADDELERİ
+
+  utter_yataygeçiş_madde_5_1:
   - text: "Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz."
 
-  utter_madde_5_2:
+  utter_yataygeçiş_madde_5_2:
   - text: "Üniversite içinde aynı diploma programlarında birinci öğretimden ikinci öğretime kontenjan sınırlaması olmaksızın yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programına geçiş yapan öğrenciler ikinci öğretim ücreti öderler."
 
-  utter_madde_5_3:
+  utter_yataygeçiş_madde_5_3:
   - text: "Birinci öğretim diploma programındaki öğrenciler birinci ya da ikinci öğretim diploma programına yatay geçiş yapabilmek için her iki programa da birbirinden bağımsız olarak başvurabilirler. Her iki diploma programına birden başvuran öğrenci, her iki programa da yatay geçiş yapma şartlarını sağlaması durumunda aksi yönde beyanı bulunmadığı sürece öncelikle birinci öğretim diploma programına yerleştirilir ve diğer programdaki başvurusu değerlendirmeye alınmaz. İkinci öğretimden sadece ikinci öğretim diploma programlarına yatay geçiş yapılabilir. Ancak, ikinci öğretim diploma programlarından başarı bakımından bulunduğu sınıfın ilk yüzde onuna girerek bir üst sınıfa geçen öğrenciler birinci öğretim diploma programlarına kontenjan dâhilinde yatay geçiş yapabilirler."
 
-  utter_madde_5_4:
+  utter_yataygeçiş_madde_5_4:
   - text: "Uzaktan öğretimden, üniversitemiz uzaktan öğretim diploma programlarına yatay geçiş yapılabilir. Uzaktan öğretimden örgün öğretim programlarına geçiş yapılabilmesi için, öğrencinin öğrenim görmekte olduğu programdaki genel not ortalamasının 100 üzerinden 80 veya üzeri olması veya kayıt olduğu yıldaki merkezi yerleştirme puanının, geçmek istediği diploma programının o yılki taban puanına eşit veya yüksek olması gerekir."
 
-  utter_madde_5_5:
+  utter_yataygeçiş_madde_5_5:
   - text: "Birinci veya ikinci öğretim diploma programlarından uzaktan eğitim veren diploma programlarına yatay geçiş yapılabilir."
 
-  utter_madde_6_1:
+  utter_yataygeçiş_madde_6_1:
   - text: "Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır."
 
-  utter_madde_6_2:
+  utter_yataygeçiş_madde_6_2:
   - text: "Kurum (üniversite) içi programlar arası yatay geçişlerde, öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır."
 
-  utter_madde_6_3:
+  utter_yataygeçiş_madde_6_3:
   - text: "Kurumlar arası yatay geçişte, öğrencinin kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış olması, ayrıca bitirmiş olduğu dönemlere ait genel not ortalamasının 100 üzerinden en az 70 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması gerekir."
 
-  utter_madde_6_4:
+  utter_yataygeçiş_madde_6_4:
   - text: "Kayıt dondurmuş olmak, yatay geçiş hakkından yararlanmak için engel teşkil etmez. Kayıt dondurmuş olan öğrencilerin başvurdukları yarıyıl itibariyle kayıtlı olduğu diploma programlarında sorumlu oldukları tüm derslerden başarılı olmaları gerekir."
 
-  utter_madde_6_5:
+  utter_yataygeçiş_madde_6_5:
   - text: "Yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır."
 
-  utter_madde_6_6:
+  utter_yataygeçiş_madde_6_6:
   - text: "Başvurularla ilgili ön değerlendirmeyi, yatay geçiş yönergesi çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan yatay geçiş komisyonları yapar. Başvurular, adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, yönergede belirlenmiş olan kıstaslara göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır."
 
-  utter_madde_6_7:
+  utter_yataygeçiş_madde_6_7:
   - text: "Diploma programına yatay geçiş yerleştirme işlemleri, Çukurova Üniversitesinin ilgili yönetim kurulu kararı üzerine yapılır."
 
-  utter_madde_6_8:
+  utter_yataygeçiş_madde_6_8:
   - text: "Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır."
 
-  utter_madde_7_1:
+  utter_yataygeçiş_madde_7_1:
   - text: "Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, Çukurova Üniversitesinin internet sayfasında duyurulur. Yatay geçiş hakkı kazananlara kendileri hakkındaki karar, internet duyurusuyla tebliğ edilir."
 
-  utter_madde_7_2:
+  utter_yataygeçiş_madde_7_2:
   - text: "Başarı şartını taşıyan yeterli sayıda adayın olması hâlinde kontenjan sayısı kadar yedek aday ilan edilir. Belirlenen süre içinde asıl adaylardan başvuru yapılmaması hâlinde sırayla yedekler çağrılır."
 
-  utter_madde_7_3:
+  utter_yataygeçiş_madde_7_3:
   - text: "İlgili komisyonlar öğrencinin daha önceki dönemlerde aldığı dersler ile yatay geçiş yaptığı programın derslerini dikkate alarak, 6. maddede belirtilen esaslara göre öğrencinin hangi yarıyıla veya sınıfa intibak ettirileceğini tespit eder, varsa öğrencinin alması gereken ilave derslerden oluşan bir intibak programı ile muaf tutulması gereken dersleri belirler. \n \n 6. MADDE: \n \n (1) Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır. \n (2) Kurum (üniversite) içi programlar arası yatay geçişlerde, öğrencinin başvurduğu döneme kadar kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış ve genel not ortalamasının en az 3.00 olması şartı aranır. \n (3) Kurumlar arası yatay geçişte, öğrencinin kayıtlı olduğu diploma programında sorumlu olduğu tüm dersleri başarmış olması, ayrıca bitirmiş olduğu dönemlere ait genel not ortalamasının 100 üzerinden en az 70 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması gerekir. \n (4) Kayıt dondurmuş olmak, yatay geçiş hakkından yararlanmak için engel teşkil etmez. Kayıt dondurmuş olan öğrencilerin başvurdukları yarıyıl itibariyle kayıtlı olduğu diploma programlarında sorumlu oldukları tüm derslerden başarılı olmaları gerekir. \n (5) Yatay geçiş başvurusu yapacak öğrencilerin daha önce herhangi bir disiplin cezası almamış olmaları şarttır. \n (6) Başvurularla ilgili ön değerlendirmeyi, bu yönerge çerçevesinde, ilgili yönetim kurulları tarafından oluşturulan yatay geçiş komisyonları yapar. Başvurular, adayların genel not ortalaması, farklı puan türlerindeki programlara geçiş için merkezi yerleştirme puanı ve eğer varsa geçmek istediği programın ortak derslerindeki başarısı dikkate alınarak, yukarıda belirlenmiş olan kıstaslara göre değerlendirilir ve ayrılan kontenjana göre geçiş sağlanır. \n (7) Diploma programına yatay geçiş yerleştirme işlemleri, Çukurova Üniversitesinin ilgili yönetim kurulu kararı üzerine yapılır. \n (8) Dörtlük veya yüzlük sisteme göre elde edilen başarı notlarının birbirine dönüştürülmesinde, Yükseköğretim Yürütme Kurulu tarafından belirlenen dönüştürme tabloları kullanılır."
 
-  utter_madde_8_1:
+  utter_yataygeçiş_madde_8_1:
   - text: "Bir fakülte, yüksekokul, konservatuvar veya meslek yüksekokulunun kendi bünyesindeki veya diğer fakülte, yüksekokul, konservatuvar veya meslek yüksekokulunun bünyesindeki eşdeğer düzeyde diploma programlarına ilgili yönetim kurulu tarafından belirlenen kontenjanlar dâhilinde yatay geçiş yapılabilir."
 
-  utter_madde_8_2:
+  utter_yataygeçiş_madde_8_2:
   - text: "Hangi dönemlerde ve hangi diploma programları için üniversite içi yatay geçiş kontenjanı belirleneceği, her bir diploma programı için ikinci yarıyıldan başlamak ve beşinci yarıyıl dâhil olmak üzere, kontenjan ilan edilen her yıl için ÖSYM Kılavuzunda öngörülen öğrenci kontenjanının yıllık % 15’ini geçmeyecek biçimde, dönemlere bölünerek ilgili yönetim kurulları tarafından karara bağlanır."
 
-  utter_madde_8_3:
+  utter_yataygeçiş_madde_8_3:
   - text: "Üniversite içi yatay geçiş kontenjanları, ilgili diploma programının son dört yıla ait taban puanları, üniversite içi yatay geçiş için 6. maddede belirtilen şartlarla birlikte, son başvurunun kabul edileceği günden en az 15 gün öncesinde Çukurova Üniversitesinin internet sayfasında ilan edilir."
 
-  utter_madde_8_5:
+  utter_yataygeçiş_madde_8_5:
   - text: "Üniversite bünyesindeki aynı düzeyde öğrenci kabul eden diploma programları arasında yatay geçiş başvurusu yapılabilmesi için, öğrencinin merkezi sınava girdiği yıl itibarıyla geçmek istediği diploma programı için geçerli olan puan türünde aldığı merkezi yerleştirme puanının, geçmek istediği diploma programına eşdeğer yurt içindeki diğer üniversitelerin diploma programlarının en düşük taban puanından az olmaması şartı aranır."
 
-  utter_madde_8_6:
+  utter_yataygeçiş_madde_8_6:
   - text: "Yetenek sınavı ile öğrenci alan diploma programlarına kurum içi yatay geçişlerde diğer şartların yanı sıra yetenek sınavında da başarılı olma şartı aranır."
 
-  utter_madde_9_1:
+  utter_yataygeçiş_madde_9_1:
   - text: "Üniversitemize kurumlar arası yatay geçiş, aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır. "
 
-  utter_madde_9_2:
+  utter_yataygeçiş_madde_9_2:
   - text: "Bu şekilde yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlere ait genel not ortalamasının en az 100 üzerinden 70 veya merkezi yerleştirme puanı geçiş yapmak istediği diploma programının taban puanına eşit veya yüksek olması şarttır."
 
-  utter_madde_9_3:
+  utter_yataygeçiş_madde_9_3:
   - text: "Üniversitemiz için belirlenen yatay geçiş kontenjanları ile başvuru ve değerlendirm takvimi, Yükseköğretim Kurulu internet sayfasında ilan edilir."
 
-  utter_madde_9_4:
+  utter_yataygeçiş_madde_9_4:
   - text: "Her yıl düzenli olarak ikinci, üçüncü, dördüncü ve beşinci sınıflar için, ÖSYM giriş genel kontenjanı 50 ve 50’den az olan diploma programlarında iki, 51 ve 100 arası olan programlarda üç, 101 ve üzerinde olan diploma programlarında ise dört adet kurumlar arası yatay geçiş kontenjanı belirlenir."
 
-  utter_madde_9_5:
+  utter_yataygeçiş_madde_9_5:
   - text: "Tamamen veya kısmen yabancı dil ile eğitim yapan yükseköğretim kurumlarına yatay geçiş için ilgili yükseköğretim kurumunun yapacağı yabancı dil yeterlilik sınavından başarılı olmak ya da ulusal veya uluslararası geçerliliği olan yabancı dil sınavlarından üniversitemizin belirlediği başarı düzeyinde bir puanı başvuru sırasında belgelemek şarttır."
 
-  utter_madde_9_6:
+  utter_yataygeçiş_madde_9_6:
   - text: "Yatay geçişle gelen öğrencilerin önceki diploma programından aldığı ve başarılı olduğu derslerin intibaklarının yapılarak, bu derslere ilişkin daha önce alınan notlar transkripte işlenir. "
 
-  utter_madde_9_7:
+  utter_yataygeçiş_madde_9_7:
   - text: "Üniversitemize kurumlar arası yapılan yatay geçiş değerlendirme sonuçları, geçerli başvurusu olan tüm adayların isimleri, değerlendirmede esas alınan puanlara göre sıralanmış biçimde Çukurova Üniversitesinin internet sayfasında ilan edilir."
 
-  utter_madde_9_8:
+  utter_yataygeçiş_madde_9_8:
   - text: "Başvurularla ilgili ön değerlendirmeyi, bu yönerge çerçevesinde, yatay geçiş komisyonu yapar. Yatay geçiş başvurusunda bulunan öğrencilerin değerlendirilmesi, öğrencinin programa yerleştiği yıldaki Ölçme, Seçme ve Yerleştirme Sistemi (ÖSYS) ndeki yerleştirme puanının yüzde altmışı ile öğrenim gördüğü yükseköğretim kurumundaki Genel Not Ortalamasının yüzlük not sistemindeki değerinin yüzde kırkının toplanması ile bulunan puana göre yapılır. Elde edilen notlar büyükten küçüğe doğru sıralandıktan sonra en yüksek notlu öğrenciden başlayarak kontenjan dâhilinde yatay geçiş yapacak öğrenciler belirlenir."
 
-  utter_madde_9_9:
+  utter_yataygeçiş_madde_9_9:
   - text: "Yeterli şartları taşıyan aday olması hâlinde aynı sayıda asıl ve yedek aday belirlenir. Takvimde belirlenen süre içinde başvurmayan asıl adaylar yerine yedeklerin başvurusu alınır. Yatay geçiş hakkı kazanan öğrencilerin intibak programları, bu öğrencilerin yeni akademik yarıyıla diğer öğrencilerle aynı tarihte başlamasını sağlayacak biçimde yapılır."
 
-  utter_madde_9_10:
+  utter_yataygeçiş_madde_9_10:
   - text: "Özel yetenek sınavı ile öğrenci alan Üniversitemiz diploma programlarına, kurumlar arası yatay geçiş başvurusunda bulunan öğrencilerin, daha önce yerleştiği programa özel yetenek sınavı ile yerleşmemiş ise başvuruları kabul edilmez."
 
-  utter_madde_11_1:
+  utter_yataygeçiş_madde_11_1:
   - text: "Çukurova Üniversitesi Senatosu tarafından yurtdışındaki yükseköğretim kurumlarından yapılacak yatay geçişler için kontenjan belirlenebilir. Kontenjan belirlenmesi hâlinde her bir program için kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde belirlenen yurt dışı yükseköğretim kurumları kontenjanları ile üniversite senatosu tarafından belirlenen başvuru şartları, kurumlar arası yatay geçiş kontenjanları ile birlikte Yükseköğretim Kuruluna en geç haziran ayının otuzuncu günü mesai saati bitimine kadar bildirilir. Yükseköğretim Kurulu internet sayfasında tüm yükseköğretim kurumlarının yurt dışı öğrenci kontenjanları ile başvuru şartları ve değerlendirme takvimi ilan edilir."
 
-  utter_madde_11_3:
+  utter_yataygeçiş_madde_11_3:
   - text: "Yurt dışındaki yükseköğretim kurumlarından yatay geçişte öğrencinin yatay geçiş yapmak istediği, üniversitemizdeki diploma programının ilgili sınıfına öğrenci kabulündeki taban puana sahip öğrenciler, yurt dışında yükseköğrenim gördüğü tüm derslerden başarı şartı aranmaksızın yatay geçiş başvurusu yapabilirler. Bu yolla başvuran öğrencilerin yatay geçiş başvurusu üniversite senatosu tarafından belirlenen esaslar çerçevesinde yurt dışı yatay geçiş kontenjanı kapsamı dışında değerlendirilir."
 
-  utter_madde_11_4:
+  utter_yataygeçiş_madde_11_4:
   - text: "Yurtdışı üniversitelerden yapılan başvurularda öğrencinin yurt dışında öğrenim gördüğü yükseköğretim kurumunun ve eğitimin yapıldığı programın ön lisans veya lisans diploma vermeye yetkili bir kurum olarak Yükseköğretim Kurulu tarafından tanınması ve kayıtlı olduğu diploma programının, yatay geçiş için başvurduğu önlisans veya lisans diploma programına eşdeğerliğinin Çukurova Üniversitesi tarafından kabul edilmesi şartı aranır."
 
-  utter_madde_11_5:
+  utter_yataygeçiş_madde_11_5:
   - text: "Yurtdışında yükseköğretime başlayan öğrencilerin Türkiye’deki yükseköğretim programlarına geçiş başvurularının değerlendirilmesinde kullanılacak olanÖSYM tarafından yapılan Öğrenci Seçme ve Yerleştirme Sınavlarındaki asgari puanlar ile bunlara eşdeğerliği kabul edilen sınavlar ve puanları, üniversiteler tarafından belirlenen yurtdışı yatay geçiş kontenjanları ile birlikte Yükseköğretim Kurulu tarafından ilan edilir. Adayların, yatay geçiş başvurusu yapabilmeleri için en az ilan edilen puanlara veya üzerindeki puanlara sahip olması gerekir."
 
-  utter_madde_11_6:
+  utter_yataygeçiş_madde_11_6:
   - text: "Yurt dışındaki yükseköğretim kurumlarından yatay geçişte, yurt dışındaki aynı yükseköğretim kurumundan bir programın her bir sınıfına geçiş yapabilecek öğrenci sayısı o programın ilgili sınıfının yurt dışı kontenjanının yüzde 15’ini geçemez. Yüzde 15’in hesaplanmasında 1’in altındaki sayılar 1’e tamamlanır. Virgülden sonraki kısım 5’ten küçükse alttaki tam sayıya, 5 ve yukarısında ise bir üst tam sayıya tamamlanır."
 
-  utter_ek_madde_1_1:
+  utter_yataygeçiş_ek_madde_1_1:
   - text: "Öğrencinin kayıt olduğu yıldaki merkezi yerleştirme puanı, geçmek istediği diploma programının taban puanına eşit veya yüksek olması durumunda, öğrenci, hazırlık sınıfı da dahil olmak üzere yatay geçiş için başvuru yapabilir. Programa yatay geçişe ilişkin başvuru takvimi, öğrenci kontenjanına ilişkin esaslar ile yatay geçişlere ilişkin usul ve esaslar Yükseköğretim Yürütme Kurulu tarafından tespit edilir. Belirlenen usul ve esaslar uyarınca öğrencilerin başvuruları yükseköğretim kurumlarının ilgili kurulları tarafından değerlendirilerek yatay geçişleri kabul edilir. Başvurunun kontenjandan fazla olduğu durumlarda ÖSYS puanı en yüksek adaydan başlayıp sıralanarak kontenjan kadar adayın yatay geçişi kabul edilir."
 
-  utter_ek_madde_1_2:
+  utter_yataygeçiş_ek_madde_1_2:
   - text: "EK MADDE-1 kapsamında eğitim gördüğü programdan farklı bir programa yatay geçiş yapan öğrencilerin azami süreleri, programın azami süresinden kabul edildiği sınıf çıkartılarak hesaplanır."
 
-  utter_ek_madde_2_1:
+  utter_yataygeçiş_ek_madde_2_1:
   - text: "Şiddet olayları ve insani kriz nedeniyle eğitim öğretimin sürdürülemez olduğu Yükseköğretim Kurulu tarafından tespit edilen ülkelerde öğrenim gören öğrenciler yatay geçiş başvurusu yapabilirler. Bu konuya ilişkin usul ve esaslar Yükseköğretim Kurulu tarafından belirlenir."
+
+
+ ## YABANCI DİL HAZIRLIK EĞİTİMİ
+
+  utter_ydil_hazırlık_madde_3:
+  - text: "Zorunlu yabancı dil eğitim-öğretiminin amacı;öğrenciye aldığı yabancı dilin temel kurallarını öğretmeyi,yabancı dil kelime hazinelerini geliştirmeyi,öğrencilerin kendilerini ifade edebilmelerini ve kendi konularındakimetinlerianlayabilmelerinisağlamaktır. Yabancı diller hazırlık eğitiminin amacı;Çukurova Üniversitesine kaydolan öğrencilerin kayıtlı oldukları programda eğitim-öğretimin yapıldığı yabancı dilde kendi konularında okuduğunu ve duyduğunu anlayabilme,kavrayabilme,metinleri Türkçe’ye çevirebilme,yazı ve söz ile kendilerini ifade edebilme yeteneğini kazanmalarınısağlamaktır."
+
+  utter_ydil_hazırlık_madde_4:
+  - text: "Her eğitim-öğretim yılı başında Rektörlükçe düzenlenen bir seviye tespit sınavı yapılır. Bu seviye tespit sınavına aşağıda sıralanan nitelikleri taşıyan öğrenciler katılabilirler. \n a) Hazırlık eğitimi öngörülmeyen programlara ilk defa kayıt yaptıran tüm öğrenciler. \n b) Hazırlık eğitimini kontenjan dahilinde öngören programlara kayıt yaptıran öğrencilerden Hazırlık Sınıfını okumayı tercih etmeyen öğrenciler. \n c) Hazırlık eğitimini başarı ile tamamlayamayan ve Çukurova Üniversitesi Yabancı Dil Eğitimi Öğretimi Ve Yabancı Diller Hazırlık Eğitimi Yönetmeliğinin 12'nci maddesine göre ÖSYM tarafından Çukurova Üniversitesi’nin Türkçe programlarına yerleştirilen Lisans öğrencileri. \n Bu seviye tespit sınavında 60 başarı notu alan öğrenciler zorunlu yabancı dil derslerinden muaf tutulurlar. \n Hazırlık eğitiminin zorunlu görüldüğü tüm programlara ilk defa kayıt yaptıran ve Hazırlık Sınıfında okumayı kontenjan dahilinde tercih eden bütün öğrenciler eğitim-öğretim yılı başında Yabancı Diller Öğretimi, Uygulama ve Araştırma Merkezi tarafından düzenlenen bir yeterlilik sınavına tabii tutulurlar. Bu sınavda başarılı bulunan öğrenciler Hazırlık Sınıfını başarmış sayılırlar ve programlarının öngördüğü zorunlu yabancı dil derslerinden muaf tutulurlar. Bu öğrenciler yeterlik sınavına girmedikleri veya bu sınavda başarılı olamadıkları takdirde, açılacak Hazırlık Sınıfında öğrenimlerine başlarlar."
+
+  utter_ydil_hazırlık_madde_5:
+  - text: "Nitelikleri bu yönetmeliğin 4'ncü maddesinde ( a ), ( b ) veya ( c ) bentlerinde de belirtilen koşullara uyan öğrenciler, yabancı dil seviye tespit sınavına girmedikleri veya bu sınavda başarılı olamadıkları taktirde, 2547 sayılı Kanunun 5'nci maddesinin ( i ) bendi gereğince düzenlenen zorunlu yabancı dil derslerini almak ve başarmak zorundadırlar. Zorunlu yabancı dil dersleri toplamı 60 saatten az olmamak üzere en az iki yarıyıl olarak programlanır ve okutulur \n a) Hazırlık eğitimi öngörülmeyen programlara ilk defa kayıt yaptıran tüm öğrenciler. \n b) Hazırlık eğitimini kontenjan dahilinde öngören programlara kayıt yaptıran öğrencilerden Hazırlık Sınıfını okumayı tercih etmeyen öğrenciler. \n c) Hazırlık eğitimini başarı ile tamamlayamayan ve Çukurova Üniversitesi Yabancı Dil Eğitimi Öğretimi Ve Yabancı Diller Hazırlık Eğitimi Yönetmeliğinin 12'nci maddesine göre ÖSYM tarafından Çukurova Üniversitesi’nin Türkçe programlarına yerleştirilen Lisans öğrencileri."
+
+  utter_ydil_hazırlık_madde_6:
+  - text: "Hazırlık Sınıfı kontenjan dahilinde isteğe bağlı olan programlara ilk defa kayıt yaptıran öğrenciler kayıt sırasında tercihlerini bildirirler. Hazırlık Sınıfını tercih eden veya Hazırlık Sınıfı zorunlu olan programlara kayıt yaptıran öğrencilerin kaydoldukları lisans veya lisansüstü programlarda öğrenime başlayabilmeleri için Hazırlık Sınıfını başarı ile tamamlamaları gerekir. \n Hazırlık Sınıfında eğitim süresi iki yarıyıldır. Ancak başarısız olan öğrenciler için destek amacı ile Yaz Dönemi Destek Programı açılabilir."
+
+  utter_ydil_hazırlık_madde_7:
+  - text: "Hazırlık Sınıfında öğrenciler tüm eğitim süresince derslerin %80’ine devam etmek zorundadır. Bu zorunluluğu yerine getirmeyen öğrenciler Hazırlık Sınıfını başaramamış sayılırlar."
+
+  utter_ydil_hazırlık_madde_8:
+  - text: "Hazırlık Eğitiminde a) Yeterlik, b) Düzey belirleme, c) Dönem içi ara sınavları olmak üzere üç çeşit sınav verilir. \n a) Yeterlik Sınavı \n Öğrencilerin en çok 3 Yeterlik Sınavına girme hakları vardır. Birinci Yeterlik Sınavı akademik yılın başında yapılan Yeterlik Sınavı ile aynıdır. Bu Yeterlik Sınavına girip başarılı olanlar ilgili programlarda öğrenimlerine devam ederler. Başarılı olamayanlarla, Yabancı dil zorunluluğu olduğu halde Yeterlik Sınavına giremeyen öğrenciler, birinci Yeterlik Sınav haklarını kullanmış sayılırlar. Bu öğrenciler Hazırlık Sınıfına devam etmek zorundadırlar. \n b) Düzey Belirleme Sınavı \n Birinci Yeterlik Sınavına girmeyenler veya girip de başarısız olanlar düzey belirleme sınavına tabi tutularak sınav sonuçlarına göre uygun düzeyde hazırlık eğitimine alınırlar. \n c) Dönem İçi Sınavları \n Dönem içi sınavları 2 yarıyıl boyunca yapılan ara sınavlardır. Bu sınavların sayısı 6 dan az olamaz. Bu sınavların öğrencilerin yıl içi ara sınavlar ortalamasına katkısı akademik yıl başlamadan önce ilgili kurullarca saptanır."
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+  utter_ydil_hazırlık_madde_:
+  - text: ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
