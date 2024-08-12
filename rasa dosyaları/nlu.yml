@@ -433,6 +433,13 @@ nlu:
     - Üç Yeterlik Sınavından birini başaran öğrencilere hangi belge verilir?
     - Hazırlık Sınıfı Yabancı Dil Yeterlik Sınavını başarıyla geçen öğrencilere ne verilir?
 
+- intent: ydil_hazırlık_madde_13
+  examples: |
+    - Hazırlık Sınıfını başaramayan öğrencilerin üniversite ile ilişiği kesilir mi?
+    - Üniversite ile ilişiği kesilen lisans öğrencilerine kaç yıl içinde kaç Yeterlik Sınavı hakkı verilir?
+    - Hazırlık Sınıfına devam yükümlülüğünü yerine getiren ancak Yeterlik Sınavını geçemeyen öğrenciler, kaç Yeterlik Sınavına girme hakkına sahiptir?
+
+
 - intent: ydil_hazırlık_madde_
   examples: |
     - 
@@ -441,9 +448,17 @@ nlu:
   examples: |
     - 
 
+- intent: ydil_hazırlık_madde_
+  examples: |
+    - 
 
+- intent: ydil_hazırlık_madde_
+  examples: |
+    - 
 
-
+- intent: ydil_hazırlık_madde_
+  examples: |
+    - 
 
 
 
