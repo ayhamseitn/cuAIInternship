@@ -260,20 +260,20 @@ stories:
   - intent: ydil_hazırlık_madde_8
   - action: utter_ydil_hazırlık_madde_8
 
-- story: s_ydil_hazırlık_madde_
+- story: s_ydil_hazırlık_madde_9
   steps: 
-  - intent: ydil_hazırlık_madde_
-  - action: utter_ydil_hazırlık_madde_
+  - intent: ydil_hazırlık_madde_9
+  - action: utter_ydil_hazırlık_madde_9
 
-- story: s_ydil_hazırlık_madde_
+- story: s_ydil_hazırlık_madde_10
   steps: 
-  - intent: ydil_hazırlık_madde_
-  - action: utter_ydil_hazırlık_madde_
+  - intent: ydil_hazırlık_madde_10
+  - action: utter_ydil_hazırlık_madde_10
 
-- story: s_ydil_hazırlık_madde_
+- story: s_ydil_hazırlık_madde_11
   steps: 
-  - intent: ydil_hazırlık_madde_
-  - action: utter_ydil_hazırlık_madde_
+  - intent: ydil_hazırlık_madde_11
+  - action: utter_ydil_hazırlık_madde_11
 
 - story: s_ydil_hazırlık_madde_
   steps: 

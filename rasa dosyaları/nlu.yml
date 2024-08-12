@@ -415,17 +415,23 @@ nlu:
     - Düzey Belirleme Sınavı hangi öğrenciler için yapılır?
     - Dönem içi sınavlarının sayısı ne kadar olmalıdır?
 
-- intent: ydil_hazırlık_madde_
+- intent: ydil_hazırlık_madde_9
   examples: |
-    - 
+    - Yeterlik Sınavına girebilmek için ara sınavlar ortalaması kaç olmalıdır?
+    - İkinci yarıyıl sonunda Yeterlik Sınavına kimler girebilir?
+    - kinci Yeterlik Sınavına giremeyen öğrenciler ne yapabilir?
 
-- intent: ydil_hazırlık_madde_
+- intent: ydil_hazırlık_madde_10
   examples: |
-    - 
+    - İkinci Yeterlik Sınavında başarısız olan öğrenciler için ne tür bir program açılabilir?
+    - Üçüncü Yeterlik Sınavına kimler girebilir?
+    - Üçüncü Yeterlik Sınavında başarısız olan öğrenciler ne olur?
+    - Yaz Dönemi Destek Programı hangi şartlar altında açılabilir?
 
-- intent: ydil_hazırlık_madde_
+- intent: ydil_hazırlık_madde_11
   examples: |
-    - 
+    - Üç Yeterlik Sınavından birini başaran öğrencilere hangi belge verilir?
+    - Hazırlık Sınıfı Yabancı Dil Yeterlik Sınavını başarıyla geçen öğrencilere ne verilir?
 
 - intent: ydil_hazırlık_madde_
   examples: |

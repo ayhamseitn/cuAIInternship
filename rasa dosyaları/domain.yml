@@ -55,9 +55,9 @@ intents:
   - ydil_hazırlık_madde_6
   - ydil_hazırlık_madde_7
   - ydil_hazırlık_madde_8
-  - 
-  - 
-  - 
+  - ydil_hazırlık_madde_9
+  - ydil_hazırlık_madde_10
+  - ydil_hazırlık_madde_11
   - 
   
 
@@ -221,14 +221,14 @@ responses:
   utter_ydil_hazırlık_madde_8:
   - text: "Hazırlık Eğitiminde a) Yeterlik, b) Düzey belirleme, c) Dönem içi ara sınavları olmak üzere üç çeşit sınav verilir. \n a) Yeterlik Sınavı \n Öğrencilerin en çok 3 Yeterlik Sınavına girme hakları vardır. Birinci Yeterlik Sınavı akademik yılın başında yapılan Yeterlik Sınavı ile aynıdır. Bu Yeterlik Sınavına girip başarılı olanlar ilgili programlarda öğrenimlerine devam ederler. Başarılı olamayanlarla, Yabancı dil zorunluluğu olduğu halde Yeterlik Sınavına giremeyen öğrenciler, birinci Yeterlik Sınav haklarını kullanmış sayılırlar. Bu öğrenciler Hazırlık Sınıfına devam etmek zorundadırlar. \n b) Düzey Belirleme Sınavı \n Birinci Yeterlik Sınavına girmeyenler veya girip de başarısız olanlar düzey belirleme sınavına tabi tutularak sınav sonuçlarına göre uygun düzeyde hazırlık eğitimine alınırlar. \n c) Dönem İçi Sınavları \n Dönem içi sınavları 2 yarıyıl boyunca yapılan ara sınavlardır. Bu sınavların sayısı 6 dan az olamaz. Bu sınavların öğrencilerin yıl içi ara sınavlar ortalamasına katkısı akademik yıl başlamadan önce ilgili kurullarca saptanır."
 
-  utter_ydil_hazırlık_madde_:
-  - text: ""
+  utter_ydil_hazırlık_madde_9:
+  - text: "Hazırlık Sınıfında iki yarıyıl içerisinde yapılan ara sınavlar ortalaması %60 ve üstü olan öğrenciler ikinci yarıyıl sonunda Yeterlik Sınavına girmeye hak kazanırlar. Bu Yeterlik Sınavında başarılı olanlar kaydoldukları programlarda eğitimlerine devam ederler. İki yarıyıl içindeki ara sınavlar ortalaması yukarıda bildirilen koşullara uymayan öğrenciler ikinci Yeterlik Sınavına giremez ve İkinci Yeterlilik Sınavında başarısız olan öğrencilerle birlikte Yaz Dönemi Destek Programına katılabilirler."
 
-  utter_ydil_hazırlık_madde_:
-  - text: ""
+  utter_ydil_hazırlık_madde_10:
+  - text: "İkinci Yeterlik Sınavı sonunda başarılı olamayan öğrenciler için Bütçe Kanunu ve Bütçe Uygulama Talimatlarıyla öngörülen koşullar çerçevesinde ücrete ve isteğe bağlı bir Yaz Dönemi Destek Programı açılabilir. İkinci Yeterlik Sınavına girmeyen veya bu sınava girdikleri halde başarılı olamayan öğrenciler üçüncü Yeterlik Sınavına girerler. Üçüncü Yeterlik Sınavında da başarısız olan öğrenciler Hazırlık Sınıfını başaramamış sayılırlar."
 
-  utter_ydil_hazırlık_madde_:
-  - text: ""
+  utter_ydil_hazırlık_madde_11:
+  - text: "Üç Yeterlik Sınavının birinden başarılı olan öğrencilere Hazırlık Sınıfı Yabancı Dil Yeterlik Sınavını başardıklarını belirten bir “Başarı Belgesi” verilir. Bu belgeyi alan öğrenciler programlarında yabancı dilde verilen lisans ve lisansüstü dersleri alabilirler."
 
   utter_ydil_hazırlık_madde_:
   - text: ""
